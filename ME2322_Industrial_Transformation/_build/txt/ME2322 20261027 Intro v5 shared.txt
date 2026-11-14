@@ -1,0 +1,275 @@
+            ME2322
+Industrial transformation and
+  technological innovation
+          Emrah Karakaya
+           2026-10-27
+Few words about myself
+Emrah Karakaya, Associate Professor (Docent)
+
+                                                                                  Teaching
+Theme Leader at KTH Food Centre & Faculty member at Digital Futures                                 Research
+
+
+Two ongoing research projects
+• AI and Industrial Transformation (WASP-HS, Wallenberg Foundations)
+• Data-Driven Sustainable Food (KTH Digital Futures)
+Teaching: ME2322; Sustainable Business; Organizational Implications of AI
+                                                                                             Leadership
+
+
+
+Previous research : Transitions in energy, aviation, steelmaking, mobility etc.
+International exposure: Türkiye, Spain, Germany, the USA, and Sweden
+Extensive research experience: 18 papers, 2500+ citations etc.
+https://www.kth.se/profile/emrahka
+                                                                                                               2
+What do you expect to learn in this course?
+
+   • First, talk to your peers
+
+
+
+
+   • Then, answer mentimeter
+      • Join at menti.com
+         • Use the code XXXX XXXX
+ME2322 – Intended learning outcomes
+• Describe, explain and use concepts, models and theories
+   • to analyze industrial dynamics and technological innovation.
+       • among others applied to industrial development in Sweden
+
+
+• Analyze how societal challenges affect industrial dynamics and
+  technological innovation, as well as
+   • how industrial dynamics and technological innovation affect the societal
+     response to these challenges.
+Navigating the emerging industrial transitions
+
+
+
+
+                                             2026-10-16
+A new design of the course, set in 2025
+• Updated course literature & a new structure
+
+• Theory: Research-based knowledge
+    • That covers both supply and demand sides of technological innovation
+
+• Practice: Guest lectures
+    • Four industries: Food, Energy, Gaming & Health
+    • Two societal challenges: AI-driven Transformation & Sustainability Transitions
+
+
+• Student survey 2025
+    • Overall impression score: 4.6/5
+    • A student comment:
+        ”Overall, a very nice, small course that I learned a surprising amount from. Definitely applicable
+        to future work.”
+The structure
+           Monday       Tuesday     Wednesday    Thursday       Friday
+Week 44                  Intro
+Week 45                   L1           L2           L3
+Week 46                   G1           G2
+Week 47      G3                        G4           L4
+Week 48                   S,S          S,S
+
+Week 49                 Tutorial                 Oral Exams   Oral Exams
+Week 50   Oral exams   Oral exams   Oral exams
+Week 51
+Week 52
+ Week 1                                                       Assignment
+Research-based lectures, covering theory
+• L1, Industrial dynamics: dominant design and general-
+  purpose technologies
+• L2, Socio-technical transitions: technological innovation
+  systems and multi-level perspective
+• L3, Diffusion of innovations: Adopters and change agents
+
+
+• L4, Critical perspectives on transitions towards artificial
+  intelligence and sustainability
+Guest lectures, covering practice
+• G1: Food sector
+   • One Planet Plate (Anna Wahlberg,
+      Programme Manager Sustainable
+      Food at WWF Sweden)
+
+
+
+
+• G2: Energy sector
+   • AI for renewable energy (John Diklev,
+      Founder and CEO at Flower)
+Guest lectures, covering practice
+• G3: Healthcare
+   • AI for clinics (Tim Gisseman, Operations
+      Associate at Tandem)
+
+
+
+
+• G4: Gaming industry
+   • The case of large-language models (Patrick
+      Ghirmai Juhl, AI Program Director, King)
+Theory-driven literature
+• Industrial dynamics
+    • Utterback, J.M., 1996. Dominant Design and the Survival of Firms - How companies can seize
+      oppurtunities in the face of technological change, in: Utterback, J.M. (Ed.), Mastering the
+      Dynamics of Innovation. Harvard Business School Press, Boston, Massachusetts, pp. 23–56.
+    • Bresnahan, T. (2024). What innovation paths for AI to become a GPT?. Journal of Economics
+      & Management Strategy, 33(2), 305-316. https://doi.org/10.1111/jems.12524
+
+• Socio-technical transitions
+    • Bergek, A., Jacobsson, S., Carlsson, B., Lindmark, S. and Rickne, A., 2008. Analyzing the
+      functional dynamics of technological innovation systems: A scheme of analysis. Research
+      policy, 37(3), pp.407-429. https://doi.org/10.1016/j.respol.2007.12.003
+    • Markard, J., Raven, R. and Truffer, B., 2012. Sustainability transitions: An emerging field of
+      research and its prospects. Research policy, 41(6), pp.955-967.
+      https://doi.org/10.1016/j.respol.2012.02.013
+    • Karakaya, E., Nuur, C., & Assbring, L. (2018). Potential transitions in the iron and steel industry
+      in Sweden: towards a hydrogen-based future?. Journal of cleaner production, 195, 651-663.
+      https://doi.org/10.1016/j.jclepro.2018.05.142
+Theory-driven literature
+• Diffusion of innovations
+    • Wejnert, B. (2002). Integrating models of diffusion of innovations: A conceptual framework.
+       Annual review of sociology, 28(1), 297-326.
+       https://doi.org/10.1146/annurev.soc.28.110601.141051
+    • Karakaya, E., & Sriwannawit Lundberg, P. (2020). International Encyclopedia of Human
+       Geography (Second Edition), https://doi.org/10.1016/B978-0-08-102295-5.10638-9
+
+• Critical Perspectives
+    • Susur, E., & Karakaya, E. (2021). A reflexive perspective for sustainability assumptions in
+       transition studies. Environmental Innovation and Societal Transitions, 39, 34-54.
+       https://doi.org/10.1016/j.eist.2021.02.001
+    • Bennich, A. (2025). Untangling digitalisation: a topic of growing relevance for transition
+       scholars. Environmental Innovation and Societal Transitions, 57, 101021.
+       https://doi.org/10.1016/j.eist.2025.101021
+    • Lai, Y. Y., & Karakaya, E. (2024). Rethinking the sustainability of transitions: An illustrative case
+       of burden-shifting and sociotechnical dynamics of aviation fuel in Sweden. Energy Research &
+       Social Science, 113, 103574. https://doi.org/10.1016/j.erss.2024.103574
+Case-based literature
+• Food
+    • Praasterink, F., Beers, P. J., Hassink, J., House, J., & Van Der Horst, H. (2025). Assessing ongoing
+      sustainability transitions: The state of food system transition in the Netherlands. NJAS: Impact in
+      Agricultural and Life Sciences, 97(1), 2534486. https://doi.org/10.1080/27685241.2025.2534486
+• Energy
+    • Christley, E., Lai, Y. Y., Brauer, H. B., & Ingersoll, A. A. (2025). A beginner's guide to reflexivity in
+      energy research and social science. Energy Research & Social Science, 127, 104267.
+      https://doi.org/10.1016/j.erss.2025.104267
+• Health
+    • Johansen, F., Loorbach, D., & Stoopendaal, A. (2018). Exploring a transition in Dutch healthcare.
+      Journal of health organization and management, 32(7), 875-890. https://doi.org/10.1108/JHOM-
+      07-2018-0185
+• Artificial Intelligence
+    • van den Broek, E. (2025). Unpacking AI at work: Data work, knowledge work, and values work.
+      Information and Organization, 35(3), 100584. https://doi.org/10.1016/j.infoandorg.2025.100584
+Examination
+• The examination of the course includes
+    • TEN1: an oral exam
+    • INL1: to assignments
+        • an assignment connected to the seminars
+        • another assignment in the format of a reflection
+          essay in the end of the course.
+TEN1 (2 ECTS)
+• An individual examination
+    • But, simultaneously taken by three students
+• The students will self-assign themselves for provided time slots on
+    • 3 December, 4 December, 7 December, 8 December or 9 December.
+• The format
+    • Intro
+    • Quiz: a mix of multiple-choice and open-ended questions on paper
+    • Reflection: follow-up questions for each student to reflect deeper on their answers
+• Content
+    • Theory and practice
+    • Tip: Attend the lectures! The open-ended questions will be related to what is discussed in
+      the lectures
+INL1 (Two assigments)
+• Part 1, group work
+   • Each team (of 4-5 students) will choose one of the research questions
+     provided in the course and write a short report (approx. 1000 words) and
+     present their findings in one the seminars.
+   • The research topics that students can choose will be announced soon and will
+     target both theory and practice parts of the course.
+
+
+• Part 2, individual reflection:
+   • In the end of the course, each students will write a self-reflection report
+     (approx. 500), covering their critical and reflexive learning process in the
+     course.
+Plagiarism
+• In this course, plagiarism is not accepted. All the submissions
+  will be checked for plagiarism.
+• More information on plagiarism (along with a handbook) can
+  be found at:
+  https://www.kth.se/en/student/stod/studier/fusk-1.997287
+Use of Generative AI
+• Have you used generative AI in other courses?
+• How was your experience?
+Can LLMs help us to get closer to the “truth”?
+
+
+
+  What is the
+  height of
+  Hailey
+  Baptiste?
+
+
+
+
+                                                 19
+Another example (new)
+ OKish
+
+ Getting strange ….
+
+Finland!?? Forest!???
+OMG – completely
+wrong!
+The Deloitte’s GenAI Scandal
+                    Deloitte will provide a partial refund to the federal government over
+                    a $440,000 report that contained several errors, after admitting it
+                    used generative artificial intelligence to help produce it.
+
+                    The Department of Employment and Workplace Relations (DEWR)
+                    confirmed Deloitte would repay the final instalment under its
+                    contract, which will be made public after the transaction is finalised.
+                    It comes as one Labor senator accused the consultancy firm of having
+                    a “human intelligence problem”.
+
+                    Deloitte was commissioned by the department to review the
+                    targeted compliance framework and its IT system, used to automate
+                    penalties in the welfare system if mutual obligations weren’t met by
+                    jobseekers, in December 2024.
+                                                          [The Guardian, 6 October 2025]
+Course-specific genAI guidelines
+• Generative AI tools allowed according to given guidelines
+• In ME2322, for INL1
+   • Be transparent with your use of generative AI, which means that your use must be disclosed
+     in an Appendix (at least with half page explanation)
+   • You should critically review generated material
+
+
+
+
+             https://intra.kth.se/en/utbildning/systemstod/generativ-ai/use-generative-ai-efficiently-1.1253700
+A reference group ME2322
+
+• We will form a course reference group (Emrah, Beatriz, and
+  some student reps).
+  • The purpose is to discuss ongoing activities in the
+     course and exchange feedback.
+  • Meeting two- three times at lunch times
+     • Lunch provided
+  • If you are interested in participating, talk/write to
+     Emrah (emrahka@kth.se) ASAP
+
+
+
+
+                                                               24
+Any questions or comments?
+Emrah Karakaya
+
+emrahka@kth.se
+

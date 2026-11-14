@@ -1,0 +1,774 @@
+TI 6 ¦ Dominant design ¦ Mastering the Dynamics of Innovation
+
+
+
+
+                                                                Mastering the Dynamics
+                                                                of Innovation
+                                                                How Companies Can Seize
+                                                                Opportunities in the Face of
+                                                                Technological Change
+                                                                                James M. Utterback
+
+
+
+
+                                                                HARVARD BUSINESS SCHOOL PRESS   Boston, Massachusetts
+CHAPTER
+
+
+                     Dominant Designs and
+                     the Survival of Firms
+
+
+
+
+                     C    HAPTER I DESCRIBED HOW THE TYPEWRITER
+                          I N D U S T R Y attracted a great number of
+
+entrants between 1885 and 1915. With the potential of the new
+invention made clear through expanding sales,
+many of them renegades from the Remington and Caligraph
+organizations-appeared with a number of uniquely designed
+machines. This is fairly typical in new industries of assembled
+products: a pioneering firm gets the ball rolling with its initial prod-
+uct, a growing market begins to take shape around that product,
+and new competitors are inspired to enter and either expand the
+market further or take a chunk of it with their own product ver-
+sions. At this embryonic stage, no firm has a “lock” on the market.
+No one’s product is really perfected. No single firm has mastered
+the processes of manufacturing, or achieved unassailable control
+of the distribution channels. Customers have not yet developed
+their own sense of the ideal product design or what they want in
+terms of features or functions. The market and the industry are in
+a fluid stage of development. Everyone-producers and cus-
+tomers-is learning as they move along.
+     This environment is conducive to market entry by many firms
+as long as capital and technical barriers are not too high, as was
+the case with typewriters in the late nineteenth century. One did
+not need to be a rocket scientist to develop a new typewriter
+design. A good hand with mechanical gadgets was what was
+ 24   MASTERING THE DYNAMICS OF INNOVATION                              Dominant Designs and the Survival of Firms                           25
+
+ required, and partners like Remington were around to handle the        dominance. With its single QWERTY keyboard, visible type, tab
+ technical- and capital-intensive business of manufacturing that new    feature, shift-key capitalization, carriage cylinder, and so forth,
+ design.                                                                this particular design brought together a number of market-proven
+      At this stage in a product’s evolution, both producers and cus-   innovations into a single machine and very quickly came to com-
+ tomers are experimenting. Even as new companies enter with             mand the typewriter industry. It remained the dominant design for
+ uniquely designed products, established firms are busy perfecting      decades, defining how the typewriter was supposed to look and
+their original designs and introducing new models; and customers        operate in the minds of both typists and other typewriter produc-
+are not yet so wedded to any particular design or company that          ers. Any firm that wanted to offer a keyboard with an innovative
+they will not experiment with something new. Industry standards         arrangement of letters, or that wanted a circular type wheel (like
+at this stage are usually rudimentary, when they exist at all.          the old Burt design), did so at its peril; it might capture some small
+      Within this rich mixture of experimentation and competition       niche of the market where those features had demonstrated merit,
+some center of gravity eventually forms in the shape of a dominant      but it could abandon any hopes of being a mainstream producer
+product design. Once the dominant design emerges, the basis of          with those sorts of designs.
+competition changes radically, and firms are put to tests that very           The IBM PC format quickly became the dominant design in
+few will pass. Before long, the ecology of competing firms changes      its market, and in retrospect we can see how its success followed
+from one characterized by many firms and many unique designs,           a pattern similar to that of the Model                in the digital age
+to one of few firms with similar product designs.                       what Underwood successfully managed in an age of mechaniza-
+     This chapter examines that changing ecology of firms and con-      tion. The PC, like the Model 5, offered the market little in the way
+siders the idea of dominant design, 2) the conditions under which       of breakthrough technology, but it brought together familiar ele-
+it occurs, 3) how the emergence of a dominant design affects the        ments that had proven their value to users: a TV monitor, standard
+pace of innovation and the structure of an industry, and 4) the         disk drive, QWERTY keyboard, the Intel 8088 chip, open architec-
+extent to which a dominant design can be recognized when it first       ture, and MS DOS operating system. Together, these elements
+appears. We consider these issues in terms of several important         came to define the idea of the personal computer for at least 80
+modern industries.                                                      percent of the market. By the early              software that added a
+                                                                        user-friendly interface                 into this design attempted to
+      WHAT IS A DOMINANT DESIGN?                                        bridge that last important chasm between the Apple Macintosh and
+                                                                        PC poles of the user market.
+     A dominant design in a product class is, by definition, the one          A dominant design embodies the requirements of many
+that wins the allegiance of the marketplace, the one that competi-      classes of users of a particular product, even though it may not
+tors and innovators must adhere to if they hope to command sig-         meet the needs of a particular class to quite the same extent as
+nificant market following. The dominant design usually takes the        would a customized design.’ Nor is a dominant design necessarily
+form of a new product (or set of features) synthesized from indi-       the one that embodies the most extreme technical performance. It
+vidual technological innovations introduced independently in prior      is a so-called           of many in terms of the interplay of tech-
+product variants. Looking back over the early history of the type-      nical possibilities and market choices, instead of an optimizer for
+writer industry, we can see that the Underwood Model 5 did this         a few.
+and emerged as the dominant design. It was enormously well                    A dominant design drastically reduces the number of perform-
+received by the marketplace, and the subsequent introduction of         ance requirements to be met by a product by making many of those
+copy-cat models by its major rivals (the Remington Monarch in           requirements implicit in the design itself. Thus, few today would
+1900 and the L.C.      Smith Brothers Model in              both of     ask if a car had an electric starter and electric windshield wipers,
+which trailed Underwood’s sales by a wide margin, confirmed its         or whether a typewriter could produce upper- and lowercase
+26   MASTERING THE DYNAMICS OF INNOVATION                               Dominant Designs and the Survival of Firms                         27
+
+ters, or whether a personal computer had a built-in disk drive,         FIGURE 2-l.   Design Hierarchies and Dominant Design
+though these were unique features in models that preceded the
+dominant design. Today, these features are implicit in designs that
+the market expects and that all producers find themselves com-
+pelled to emulate. They are no longer serious issues nor are they
+advertised as advantages of one or another manufacturer’s prod-
+uct. They are subsumed within the popularly accepted design.
+
+
+     HOW DOES A DOMINANT DESIGN OCCUR?                                                                                  Caligraph (1878)
+      If the emergence of a dominant design is the landmark event
+for an industry as hypothesized, then managers need to understand
+how dominant designs occur. It would be tempting to think that                                                             Hammond
+there is some predetermination to the emergence of a dominant
+design-that automobiles with internal combustion engines were
+somehow exactly what the gods of transportation always meant for
+us to have, and that earlier experiments with electric- and
+powered cars were misguided aberrations destined to go nowhere.
+The emergence of a dominant design is not necessarily predeter-
+mined, but is the result of the interplay between technical and mar-
+ket choices at any particular time. This is easily illustrated by the
+standard keyboard that found its way into the first Remingtons, the         DOMINANT DESIGN                                FAILURES
+Underwoods, and virtually all successor typewriters, computers,
+and other keyboards to this day. From a practical standpoint, doz-
+ens if not hundreds of different keyboard designs might have been            The idea of a dominant design is conceptually broader than
+as effective ergonomically. What Sholes, Remington, and hundreds        technical competition and progress. Factors other than technology
+of others settled on was the product of the experiments, technical      come into play; chief among these are collateral assets, industry
+possibilities, individual choices, proprietary positions, and-to        regulation and government intervention, strategic maneuvering by
+some extent-sheer inertia. Equally, the persistence of dominant         individual firms, and communication between producers and users.
+designs illustrates the momentum of both established practice and
+complementary assets such as-in the case of typewriters-typing          Collateral Assets
+skills and training.                                                    Collateral assets-or co-specialized assets, as described by
+      Indeed, this notion of dominant design as successful evolution                   to have a two-way relationship with the emergence
+can be represented using Kim Clark’s design hierarchies approach;       of a dominant design. A firm in possession of collateral assets such
+a simplified hierarchy drawn from the history of the typewriter is      as market channels, brand image, and customer switching costs
+illustrated in Figure 2-l. A “technological trajectory” (two are        will have some advantage over its competitors in terms of enforc-
+shown here) is the path of progress established by the choice of a      ing its product as the dominant design. The experience of IBM in
+core technical concept at the outset. Decisions about the product,      personal computers is a case in point. There were plenty of firms
+constrained by prior technical choices and by the evolution of cus-     with PCs on the market in 1981, the year in which IBM first offered
+tomer choices, influence these various trajectories.                    its personal computer. To the buying public, the name IBM had
+28   MASTERING THE DYNAMICS OF INNOVATION                               Dominant Designs and the Survival of Firms                       29
+
+tremendous brand value; as a huge firm, its entry meant that            dominant design. This is a case of market learning. Staying close
+replacement parts and service would be available and that appli-        to customers makes it possible for producing firms to observe how
+cations software would begin to appear, encouraged by industry          their evolving products are actually being used, how they are suc-
+standards that would conform to IBM’s machine.                          ceeding or failing to satisfy customer requirements, and how design
+                                                                        changes might close the gap between product capabilities and user
+Industry Regulation and Government Intervention                         requirements. Close contact with users during the period of exper-
+Industry regulation often has the power to impose a standard and        imentation helps firms determine which product features are truly
+thus define a dominant design. For instance, the FCC’s approval         important to customers. Managing this producer-user interface
+of the RCA television broadcast standard worked to the advantage        may take the form of close ties to “lead             users’ associa-
+of RCA by establishing its design as the standard for the emerging      tions, and industry groups. Conversely, Christensen has shown
+television industry. Today, efforts by governments around the           that customers for entrenched products can influence a firm not to
+world to define standards for high-definition television-standards      change when change is called for, increasing their resistance and
+that will either favor or undermine the interests of their domestic     vulnerability to technological progress.
+producers-will certainly have an impact on dominant design in
+that field.
+                                                                             DOMINANT DESIGN, COMPETITION, AND
+Strategic Maneuvering at the Firm Level                                      INDUSTRY STRUCTURE
+The product strategy followed by a firm relative to its competitors
+may determine which firm’s product design becomes dominant.                   Economists have been comfortable with the notion that the
+This is what Cusumano, Mylonadis, and Rosenbloom have called            creative synthesis of a new product innovation by one or a few
+ “strategic                  In their study of videocassette recorder   firms results in a temporary monopoly situation, high unit profit
+standards, these researchers determined that one reason the VHS         margins and prices, and sales of the innovation in those few market
+system backed by JVC won market dominance over Sony’s                   niches where it possesses the greatest performance advantage over
+max was the different strategies followed by these two firms. While     competing alternatives. This is in line with Schumpeter’s
+JVC followed a “humble” strategy of establishing alliances first in     breaking “creative destruction” model and subsequent studies on
+Japan and then in Europe and the United States, Sony chose to go        the economics of                As demand and production grow,
+it alone-stressing its reputation and deliberately avoiding alli-       and as more applications are found for the innovation, many new
+ances or contracts that would impinge on its vertical integration for   firms enter the market with variations of the product. For example,
+this important new market. According to Cusumano et al., it was         early versions of the automobile included steam and electric vehi-
+primarily         strategy, and neither the technological advantages    cles as well as the now familiar internal combustion engine; there
+of VHS, the firm’s collateral assets, nor government regulation that    were literally dozens of these auto producers in the United States
+made VHS the dominant design. In fact, VHS was technically infe-        alone during the early auto days. Typewriter companies, we recall,
+rior in many ways to its             rival. Apple Computer followed     entered by the dozens with curved keyboards, double keyboards,
+a similar tactic with its Apple II, encouraging many suppliers of       and other exotica. There were more than 30 of these companies
+compatible peripheral equipment to invest in its growth. With the       doing business in the United States during the formative years of
+more exclusive architecture of the Macintosh, Apple abandoned           the typewriter industry.
+this idea to its detriment.                                                  Burton Klein suggested a profound connection between
+                                                                        industry structure and technological change in his seminal work on
+Communication between Producers and Users                               dynamic               Klein portrayed each firm’s investments and
+Finally, the way each firm manages communication with its cus-          product introductions as experiments providing corrective and
+tomers many have a significant effect on its ability to impose a        stimulating feedback about product and market requirements. Thus
+30   MASTERING THE DYNAMICS OF INNOVATION                               Dominant Designs and the Survival of Firms                        31
+
+the earliest period in the development of a product line or industry    change organizational structure and practices in tandem with the
+in which few firms participate would necessarily be a period of         evolution of technology in the industry is a major source of failure.
+relatively slow technical progress and productivity advance. As              One might hypothesize that the peak of the total population
+larger numbers of firms entered the arena, broadening the range of      curve for competition in any assembled product industry will occur
+experimentation and the definition of the product technology,           within a year or two of the time when a dominant design emerges
+Klein expected greater innovation with correspondingly greater          in that industry. In the course of this chapter, evidence from a num-
+technology progress and productivity advance.                           ber of other industries-old and new-addresses this point. Prior
+      Finally, as a few firms came to dominate the industry with        to the appearance of a dominant design, one would expect to see a
+superior product technology and productivity, both experimenta-         wave of entering firms with many varied, experimental versions of
+tion and progress would be expected to slow. The renewal or             the product, just as we did with the typewriter, the personal com-
+broadening of competition would be required for rapid progress to       puter, and the early automobile. Following the emergence of the
+recur. In reviewing earlier work, Klein found no case in which a        dominant design, the expectation, given this hypothesis, would be
+major advance, one that established a new and more rapid trajec-        a wave of exits by competing firms and a general consolidation of
+tory for technological progress, came from a major firm in the          the industry. This is represented in Figure 2-2. Thus the appearance
+industry in question (an unsettling point I examine in detail later).   of a dominant design in year 10 would mark an important change
+From this evidence he concluded that the process of moving from         in the evolution of an industry, and effective competition would
+a dynamic organization to a static one, from a period of rapid or-      begin to take place on the basis of cost and scale as well as on the
+ganizational learning to a period of slow or no progress, appears to    basis of product performance.
+be irreversible.                                                              If this hypothesis is correct, we will have observed a repeat-
+      It is common to think of innovative entrants to a young indus-    able pattern in the dynamics of innovation and change that is useful
+try as being small firms. This is not entirely the case. Remington      for both managers and scholars. The following developments might
+was a major industrial company by the standards of the day when         be hypothesized as gaining strength in the wake of the dominant
+it went into the typewriter business. So was IBM in 1981 when it        design.
+decided to enter the PC business and earlier when it entered the
+electric typewriter business. This is an important point we will
+return to in Chapter 9. The appearance of a dominant design shifts      FIGURE 2-2.   Dominant Design and Numbers of Competing Firms
+the competitive emphasis in favor of those firms-large or
+that are able to achieve greater skills in process innovation and
+integration and with more highly developed internal technical and
+engineering skills. Once the dust has settled on the contest for
+product innovation, then competitive engagement shifts to a new
+battleground: process innovation. When the marketplace decides
+that the QWERTY keyboard, or some other design standard, is
+what it wants, then innovators start figuring out how to make that
+peculiar keyboard as efficiently as possible; and some firms will be
+better able to do that than will others.
+      Firms that are unable to make the transition toward greater
+process innovation are unable to compete effectively and very
+often fail. Ones that possess special resources may successfully
+merge with the ultimately dominant firms. Overall, the inability to                                        Time
+32   MASTERING THE DYNAMICS OF INNOVATION                              Dominant Designs and the Survival of Firms                                 33
+
+Enforcement of Standards                                               After a dominant design is established, the total number of firms
+                                                                       declines steadily until it stabilizes with a few large firms. Very often
+A dominant design has the effect of enforcing or encouraging           the successful firms are those that entered the industry in its early
+standardization so that production or other complementary econ-        stages.
+omies can be sought and perfected. Effective competition then
+shifts from innovative approaches to product design and features,                     Revisited
+to competition based on cost and scale as well as on product per-      Growth in the typewriter industry was initially slow, probably
+formance.                                                              because no one had mastered the typing skills needed to capture
+Change in the Pace and Direction of Innovation                         the full value of the new machine. By 1885, four new competitors
+                                                                       had appeared, breaking Remington’s monopoly, and the typewriter
+Once accepted, a design can have a profound impact on both the
+                                                                       was gradually accepted by the public. By the turn of the century
+direction of further technical advance and the rate of that advance.
+                                                                       over 30 firms had machines in the U.S. market, but until that time
+The wide acceptance of the QWERTY keyboard--one component
+                                                                       typewriter manufacturers offered products with few standardized
+of the dominant typewriter design-made further innovations in
+                                                                       characteristics. Royal appeared in 1904, and by 1909, as seen in
+keyboard design off-limits. Innovators might tinker with the
+                                                                       Figure 2-3, the number of competing firms had increased to 40.
+peripheral keys, or add new keys like the (slash) or the + (plus),
+                                                                       Underwood introduced its Model 5 in 1899. The visible writing of
+but the rest became untouchable; if keyboard changes were to be
+                                                                       the Model 5 allowed the typist to see what he or she had actually
+made, they would have to be limited to other dimensions of the
+keyboard just as the hidden mechanisms that controlled its move-
+ments                                                                  F IGURE 2-3.     Number of Firms in the U.S.                   Industry
+      The pace at which major innovations find their way into the
+product slows down considerably after the emergence of the dom-            90
+inant design. Perhaps operating on the adage that you do not take
+                                                                           80                                                             EXIT
+a well person to the surgeon, firms turn their energies away from
+the innovation of product features and toward the innovations that         70
+will lead them to cost or quality advantages on what has become a
+fairly standardized product. The illustrations that follow make this
+point clear.
+
+     EVIDENCE AND EXAMPLES
+     We turn now to a discussion of some specific examples that
+exhibit the waves of change suggested by this model of dominant
+design and the survival of firms: the manual typewriter industry,          10
+the auto industry, the electronic calculator, integrated circuits,
+television and television picture tubes, Winchester disk drives, and        0
+the massively parallel supercomputer. In general, each of these                 74 77 80 83 86 89 92 95 98 1   4 7 10 13 16 19 22 25 28 31 34
+industries exhibits a similar pattern of firm entries and exits.                                     Years (from 1874 to 1936)
+     At the dawn of a new industry, firms (mostly small, entrepre-     Source: Based on data in George Nichols Engler, The Typewriter Industry: The
+neurial firms) enter at a moderate pace. Later, a rapid wave of        Impact                Technological Innovation (Los Angeles: University of
+entry occurs, raising the number of firms in the industry steeply.     California at Los Angeles, 1970).
+34   MASTERING THE DYNAMICS OF INNOVATION                                Dominant Designs and the Survival of Firms                                   35
+
+typed as the keys struck the page. It was the first to have a tabu-      F IGURE         Number of Firms in the U.S. Automobile Industry
+lator-making columnar presentations much simpler-and it was
+able to cut stencils and make good copies. These valued features                              ENTRY AND EXIT OF FIRMS IN THE U.S.
+won Underwood a large share of the commercial office market.                                      AUTO INDUSTRY:       1962
+And as more people learned to use the Model 5, it formed their                                               all-steel closed body introduced by Dodge
+expectations of what a typewriter should be. From that point on,
+the essential features of the typewriter were set in the Underwood          75
+machine. It became the dominant design-the model of
+erness” that the public expected and that others would eventually
+follow.                                                                     6.5
+      The introduction of the Underwood Model 5 marked a parting                      Number of Operators
+of the waters in the crowded typewriter industry. As Figure 2-3
+indicates, the end of rapid growth in the number of competing firms                                                         50% of US products in
+occurred shortly after the introduction of the Model 5; after 1907,                                                          all-steel closed body
+the number of firms in the industry began a slow and irreversible
+                                                                                                                            80% of U.S products in
+decline. By 1940, only five producers had any standing in the mar-          45                                               all-steel closed body
+ket: Remington, Royal, Smith, and Underwood each with 20 per-
+cent market share, and IBM with about 10 percent. Others, mostly
+foreign firms, had the remaining 10             More than 90 percent
+                                                                            35
+of the firms that had entered the industry had disappeared, either
+through bankruptcy or, in a few cases, merger. Only a few of the
+early innovative entrants survived. Except for a variety of embel-
+                                                                            25
+lishing features, little would change in the product or the competi-
+tive situation until the introduction of the electric typewriter. Even
+then, the electric typewriter represented less of a change for the
+user than did the advent of the first manual machine at the turn of
+the century. It remained for the development of the personal com-                              Number of Entries
+puter to provide an example of similar broadening of the market.
+      We can hypothesize that the emergence of a dominant design                                                                   Number of Exits
+                                                                             5
+very suddenly shifted the basis of competition away from the
+development of unique product features to other capabilities such
+as low-cost manufacturing, marketing, service, or some other fac-                      1900       1910      1920          1930     1940     1950     1960
+tors; indeed, George Engler, whose study of the industry has been                                                  Year
+cited here and in Chapter 1, reached that conclusion.                    Source: James M. Utterback, “Innovation and Industrial Evolution in Manufac-
+                                                                         turing Industries,” Bruce Guile and Harvey Brooks, eds., reprinted with per-
+Automobiles                                                              mission from Technology and Global             (Washington, D.C.: National
+                                                                         Academy Press, copyright         based on data from R. Fabris, “Product Inno-
+More than 100 firms entered and participated in the U.S. auto            vation in the Automobile Industry,” Ph.D. diss., University of Michigan, 1966.
+industry for a period of five years or longer, as presented in Figure
+2-4. The wave of entry began in 1894 and continued through 1950;
+the wave of exits began in 1923 and peaked only a few years later,
+although it has continued until the present day.
+36   MASTERING THE DYNAMICS OF INNOVATION                              Dominant Designs and the Survival of Firms                                     37
+
+      As we would hypothesize, entry of firms into the industry        T ABLE 2-l.     Major Innovations and Firm Entries/Exits from
+began slowly, but accelerated rapidly after 1900. From 1894 to                         U.S. Auto Industry
+ 1918, 60 firms entered the industry and none left; participation      Period              Innovations           New Entrants             Firm Exits
+reached a peak of 75 firms in 1923. In the next two years, 23 firms,
+nearly one-third of the industry, left or merged, and by 1930, 35      1894-1918                NA                      60                        0
+firms had exited. During the Great Depression, 20 more firms left.     1919-1929                14                      22                       43
+There was a brief flurry of entries and exits immediately following    1930-1941                11                       6                       29
+World War II, but the number of U.S. firms in the industry was         1946-1962                 7                       4                        8
+basically stable between 1940 and 1980, when a number of foreign
+producers set up production operations in North America.               Source: R. Fabris, Product Innovation in the Automobile Industry, Ph.D.
+      A number of major product innovations appear within this         University of Michigan, 1966, p. 92.
+pattern of entries and exits. We do not have data on innovations
+for the 1894-1918 period, but we assume that during these forma-
+tive years product innovations were frequent and substantial. The      causally. However, the link between major innovations and the
+year 1923, when the number of competing firms reached its peak,        decline of new entrants and increase in exits fortifies our intuition
+was the year that Dodge introduced the all-steel, closed body auto-    about the linkages here.
+mobile-an important innovation. This new body format dramati-
+cally improved the strength and rigidity of the chassis, and at the    Televisions and Television Tubes
+same time provided an opportunity for manufacturers to move            Research leading to the appearance of the television started several
+away from hand forming of exterior body panels to the highly cap-      decades before the first successful results were achieved. RCA
+italized but efficient process of machine stamping.                    entered the industry in 1929 after David Sarnoff, impressed by a
+      By 1925, fully half of U.S. auto production was all-steel,       demonstration by inventor Vladimir Zworykin, decided to hire
+closed, body cars; and by           percent of all automobiles were    Zworykin and put him in charge of RCA’s Electronic Research
+of this         Exits from the industry began and picked up speed      Group in Camden, New Jersey. Several other firms or
+rapidly around this time, and the number and rate of product inno-     entrepreneurs entered the infant industry during the          and all
+vations declined markedly. New concepts that did come along in         contributed to the expanding frontier of technical knowledge.
+product accessories and styling were tested in the low-volume,         Farnsworth, Louis Hazeltine, American Television, and Allen
+high-profit luxury automobile. Conversely, incremental innova-                   are some of the most important names in the early years
+tions were more commonly introduced in lower-priced, higher-vol-       of television.
+ume product lines. General Motors appears to have led in both                The industry’s commercial birth can be traced back to the
+types of innovations, particularly for major product changes.          1939-1940 World’s Fair in New York, where millions saw television
+Between 1919 and 1962, the U.S. auto industry witnessed a declin-      displays for the first time. For the purposes of our analysis, 1939
+ing number of major innovations on an annual basis, a decrease in      marks the beginning of the industry. Data in Figure 2-5 start in
+the number of new entrants, and a steady withdrawal of firms from      1949. The figure clearly shows that the television industry con-
+the business (see Table                                                forms to the hypothesized relationships between dominant design
+      The Dodge all-steel, closed body design was introduced dur-      and the peaking of competing firms in the industry. The first decade
+ing the period in which fully half the major innovations took          of the industry obviously witnessed a rapid increase in the number
+place-1919-1929. While it clearly became the dominant design for       of firms making television sets. The wave of entry most likely
+the auto body and a major part of the total product package, its       peaked in 1950, the first year of our entry data, or one year earlier.
+influence on the rate of firm exit and entry cannot be established     The total number of firms steadily increased until 1952, the year in
+38 M ASTERINGTHE       D YNAMICS                                                   Dominant Designs and the Survival of Firms                                   39
+
+
+FIGURE 2-5.      Number of Firms in the U.S. Television Industry                   firms. This further reduced competition and supports the idea that
+                                                                                   RCA held rights to most of the key characteristics of the product
+
+
+
+                                                                               1
+    90                                                                             at the time.
+                                                                    ENTRY
+    80                                                                                   The story of the TV picture and receiving tubes is closely
+                                                                    EXIT
+                                                                                   related to that of the television industry itself. Figure 2-6 depicts a
+                                                                    TOTAL
+                                                                                   rapid increase in the total number of tube producers from 1949 to
+    60                                                                             1956, analogous to that previously discussed for the television
+    50                                                                             industry. In 1956, four years after the peak of the television indus-
+    40
+                                                                                   try curve, the total number of firms in the tube industry reached
+                                                                                   its peak of 66 firms.
+     30                                                                                  One of RCA’s major innovations was the development of the
+     20                                                                            shadow-mask color picture tube. The FCC ruled in favor of the
+     10                                                                            RCA-compatible standard in December 1953, and programs were
+                                                                                   first broadcast in this format in January of 1954. Hazeltine made
+      0
+                                                                                   major contributions to brightness. Some problems in manufacture
+          40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88
+                                                                                   constrained the size of the tubes to 16 inches until CBS laborato-
+                           Years (from 1940 to 1989)                               ries learned how to curve the mask. RCA licensed both develop-
+Source: James M. Utterback and Fernando            “Innovation, Competition,       ments. A problem with the initial tubes was that they were metallic
+and Industry Structure,” Research Policy, vol. 22, no. January 1993, p.            with glass bonded to the front, and this interface proved trouble-
+                                                                                   some, often separating and ruining the tube. The 21-inch, all-glass
+                                                                                   tube-first black and white, then color-eliminated this problem
+which it peaked at 85 firms. The wave of exits started to take off
+in 195 1 and peaked around 1956.
+      Several things happened in the early 1950s television industry
+that had a significant impact on the pattern of innovation and com-                FIGURE 2-6.       Number of U.S. Picture Tube Producers
+petition that was to follow. First, the uncertainty about technical                   90
+standards for color broadcasting (i.e., UHF versus VHF) was                                                                                                 ENTRY
+resolved by the Supreme Court in 195 1. Two years later the FCC                       80                                                                    EXIT
+approved the National Television Standards Committee (NTSC)                           70                                                                    TOTAL
+system, backed by a group of manufacturers headed by RCA. Sev-                        60
+eral firms that had opposed the RCA technical standards dropped
+                                                                                      50
+out of the business due to this legal ruling. Second, several features
+of the television set converged to form a dominant design around                      40
+1952. The most important aspect of this design was the size of the
+screen and therefore the characteristics of the picture tube. The
+first set produced by RCA had a IO-inch monochrome tube. Almost
+all tubes produced in the 1940s were smaller than 14 inches. RCA
+produced its first 21-inch and other large tubes around 1952, and                          49 50   52 53 54 55 56   58 59 60   62 63 64 65 66 67 68 69 70
+these soon became the market standard. Third, during the early
+         RCA started licensing its television technology to other                                               Years (from 1949 to 1970)
+40   MASTERING THE DYNAMICS OF INNOVATION                               Dominant Designs and the Survival of Firms                                41
+
+and has been by far the biggest seller since the mid-1950s. The first   F IGURE 2-7.    Number of Firms in the U.S. Transistor
+such tube was introduced by RCA late in 1955 and captured a sig-                        Manufacturing Industry
+nificant portion of the TV tube market during the rest of the
+decade. The advent of reliable color tubes contributed to the diffi-
+culties that many tube producers were experiencing during the late
+1950s and fostered concentration in the industry. Indeed, in May
+1958, RCA publicly announced the first all-glass 21-inch color
+picture tube, which was to hold a large share of the color tube
+market.”
+                                                                                                                                          ENTRY
+The Transistor                                                                                                                            EXIT
+                                                                                                                                          TOTAL
+According to J.E.           three firms dominated the receiving vac-
+uum tube business in the United States in 1950: General Electric,
+Philco Ford, and RCA.‘* Over the ensuing decade these firms spent
+more on R&D and received more patents than did new firms enter-
+ing the industry (counting the expenditures and patents of Bell
+Laboratories), but a cohort of new entrants gained nearly                    0
+                                                                                 51 52 53     55 56 57 58 59 60 61 62 63 64 65 66 67 68
+thirds of the new and growing transistor market. By 1966, three of
+                                                                                                       Years (from 195 1 to 1968)
+these new entrants-Texas Instruments, Motorola, and Fairchild
+Semiconductor-together accounted for 42 percent of the market,          Source: Based on data in E. Braun and S. MacDonald, Revolution in Miniature:
+while the vacuum tube manufacturers’ share of the transistor mar-       The History and Impact of Semiconductor Electronics (Cambridge, England:
+                                                                        Cambridge University Press, 1978); and J.E.       International Diffusion of
+ket declined to just slightly more than one-fourth of the total. The    Technology (Washington, D.C.: The Brookings Institution, 1971).
+difference between established firms and new entrants in this busi-
+ness would be even more dramatic if one included IBM’s produc-
+tion for its own use (IBM is believed to have entered production in     reader will note that exits from the industry, almost nil before 1959,
+ 1961).                                                                 became commonplace thereafter.
+      Figure 2-7 shows that the total number of firms in the transis-
+tor industry began to rise rapidly with its invention in 1948. This     The Electronic Calculator
+increase was virtually halted around 1959, when the planar transis-     The American calculator industry in the early 1960s consisted of
+tor entered commercial production. Transistors produced through         five major companies manufacturing the electromechanical
+the planar process rapidly became the dominant design in the            machines that controlled nearly 90 percent of the market:
+industry. Introduced by Fairchild Semiconductors, planar transis-       Monroe, Marchant, Victor, and Olivetti.              Marchant, and
+tors presented many advantages over mesa transistor technology.         Monroe each had approximately 20 percent of the market, Victor
+In particular, the planar transistor was flat, which meant that elec-   a slightly smaller share, and Olivetti 10 to 15 percent. These com-
+trical connections could be achieved by depositing an evaporated        panies were almost completely vertically integrated because of the
+metal film on appropriate portions of the wafer. This was a great       need for a high degree of precision in the manufacture of many
+advantage over the mesa transistor, whose irregular surface dic-        specialized parts. There were strong barriers to new-firm entry. By
+tated that electrical connections be done laboriously by hand. The      concentrating on specific segments of the market, the major com-
+planar transistor prompted a drive to produce low-cost transis-         panies avoided intense competition. Extensive distribution and
+tors-a phenomenon typical of post-dominant design stages. The           service networks reinforced their market dominance. In addition,
+42        MASTERING THE DYNAMICS OF INNOVATION                                             Dominant Designs and the Survival of Firms                                    43
+
+the technology of electromechanical calculators had reached a high                         assemblers of purchased components. The industry’s structure
+level. It was proving difficult for any firm to come up with a dra-                        then appears to stabilize, with a few of the semiconductor makers
+matic breakthrough that would threaten the status quo.                                     (e.g., Rockwell) dropping out and a small number of the remaining
+      Initially this situation did not change when the electronic cal-                     vertically integrated companies dominating the market. Thus the
+culator entered the market in 1962. The first electronic calculators                       appearance of a dominant design and the drive toward vertical inte-
+were extremely complex and expensive machines of more than                                 gration that normally follows its appearance were almost concur-
+2,300 discrete parts aimed at specialized scientific and technical                         rent in this highly compressed example.
+market segments. Figure 2-8 shows that between 1962 and 1970, 11
+firms entered the industry, with 10 surviving. This wave of entry                          The Integrated Circuit
+peaked in 1972 with the entry of 21 firms in a three-year period.                          The integrated circuit industry is the only one in the sample that
+However, exits began in 1971, following the introduction of the                            does not clearly conform to the hypothesis regarding a collapse of
+calculator chip, a dominant design that made unit assembly a sim-                          the number of competitors following the emergence of a dominant
+ple matter of piecing together the chip, display device, and key-                          product design. In fact, Figure 2-9, displaying data on U.S. firms,
+board. The entry of semiconductor manufacturers such as Texas                              shows no clear peak in firms during the data period. Therese
+Instruments and Rockwell in 1972, and National Semiconductor in                            Flaherty, who has studied the integrated circuit industry, suggests
+1973, further precipitated the departure of firms that were largely                        that no one product of any generation can be easily considered a
+                                                                                           dominant design. The product has continued to change substan-
+                                                                                           tially from generation to generation, which may explain the very
+FIGURE 2-8.              Number of Firms in the U.S. Electronic
+                         Calculator Industry
+                                                                                           FIGURE 2-9.      Number of Firms in the U.S. Integrated
+     35                                                                                                     Circuit Industry
+
+     30                                                                             EXIT
+                                                                                             35
+                                                                                                                                                                 EXIT
+     25 I                                                                                   30
+
+                                                                                            25
+
+
+
+
+          62   63   64    65   66   67   68   69      71   72   73   74   75   76
+                                         Years (from 1962 to 1976)
+Source: Based on data in B. Majumdar, Innovations, Product Developments,                          74   75   76   77   78   79    80    81     82       83   84     85   86    87
+and Technology Transfer: An Empirical Study of Dynamic Competitive Advan-                                                       Years (1974 to 1987)
+tage, The Case of Electronic Calculators, Ph.D. diss., Case Western Reserve
+University, Cleveland, Ohio, 1977.                                                         Source: Dataquest and Therese Flaherty, personal communication.
+44   MASTERING THE DYNAMICS OF INNOVATION                                Dominant Designs and the Survival of Firms
+
+broad plateau observed in total industry participation as many           first these were designed for use with mainframe and minicomput-
+firms both enter and exit the industry.                                  ers, but future generations of the product addressed the storage
+      There have been many generations of integrated circuits. For       needs of the proliferating base of microcomputers. The Winchester
+instance, DRAM (dynamic random access memory), the most                  disk drive industry attracted many startup firms, many of which
+important segment of the industry at this time, has already passed       enjoyed success in the early years. Between 1978 and
+through seven generations                                      4MB).     year in which the number of firms producing these drives
+Competition has been intense within and between generations, and         sales to original equipment manufacturers grew from $27 million to
+no firm has been able to maintain a leadership position from one         $1.3 billion. Industry analysts were euphorically projecting a tri-
+generation to another. Based on this industry, Fumio Kodama              pling of revenues from that level by
+introduced the concept of “surf riding.” If one company leads the               Clayton Christensen identifies five generations of Winchester
+race in, say, 4K memories, it will not lead in the 16K generation.       drives in his data:                               and         drives.
+Having lost that one, however, it may attempt to strike back in the      In the first two generations the motor was separate, while in the
+contest for 64K memories, where the leader of the 16K generation         third it was incorporated in the drive spindle. Further important
+will not likely figure as a prominent competitor. In general, Amer-      design changes were made in the             drives, while the
+ican firms have been losing ground to Japanese entrants. The first       drives are essentially a miniature version of these and have not to
+three generations were dominated by American firms, but Japanese         date enjoyed important sales growth. Christensen argues persua-
+firms began taking a significant share of the market from the 64K         sively that established firms failed to master each successive gen-
+generation onward.                                                        eration of Winchester disk drive technology through being too wed-
+      Although a quick look at the integrated circuit industry sug-       ded to existing customer demands and not sufficiently attentive to
+gests that the model has limited explanatory power in this case,          the emerging demands of smaller computer manufacturers.
+several issues cast a shadow on such a conclusion. The first is                 Smaller drives were much slower and more expensive at first,
+Flaherty’s observation that within each generation of integrated          but they did bring the hard drive to desktop machines. While estab-
+circuits the “enter early” strategy was a winner. Second, the pro-        lished firms led the difficult but incremental improvement of com-
+duction capacity of the major firms has increased relative to market      ponents, new firms led with innovative architectures using existing
+demand through each generation; fewer companies are needed to             components. The leaders in each generation of drives were differ-
+satisfy demand.                                                           ent from those in the prior generation, with the exception of the
+      Exits for firms from the American integrated circuit industry       current          drives. Christensen claims that the          drives
+began in 1985 and increased steadily for the next two years. As           incorporate all the features and functions that will be seen in
+new entries were nil during this period, the total number of Amer-        inch and even smaller drives and thus constitute a dominant
+ican firms declined in 1987 to one of its lowest levels. Today the        design. This is a pleasing conclusion because it perfectly supports
+prevailing industry pattern is higher concentration and larger firms.     the hypothesis with respect to the number of firms remaining in the
+Finally, although product innovation is still important in later inte-    industry, as shown by our independent analysis of his data in Fig-
+grated circuit generations, process innovation and production             ure 2-10.
+capabilities are increasingly critical as generations pass and greater
+production volumes are required of participant firms. Such produc-       Supercomputers
+tion capabilities form an effective barrier to entry in the industry.     Supercomputers, the most powerful computational systems at any
+Winchester Disk Drives
+                                                                          given time. today achieve speeds in the 100 MFLOPS (million
+                                                                          floating operations per second) range. Three major technologies
+The technology for Winchester disk drives was first developed by          have been used to build these machines: sequential, vector, and
+IBM in 1973 as a high-speed method of storing data. A number of           parallel processing. Sequential computers, the architecture of
+competing firms emerged with similar technology and products. At          which is often referred to as von Neumann, have only one central
+46   MASTERING THE DYNAMICS OF INNOVATION                                            Dominant Designs and the Survival of Firms                                47
+
+FIGURE 2-10.      Number of Firms in the U.S. Winchester Disk                        FIGURE 2-l 1.       Number of Firms in the U.S. Massively Parallel
+                  Drive Industry                                                                         Supercomputer Industry
+
+     90                                                                                  35
+
+     80                                                                                                                                                 EXIT
+                                                                         EXIT            30
+     70
+
+     60
+
+
+
+     40
+
+     30
+
+
+
+
+       -76   77   78   79   80         82    83   84      85   86   87    88    89
+                              Years (from 1976 to 1989)
+                                                                                              83   84   85   86   87   88     89   90   91   92   93
+Source: Based on data from Christensen (see note 14).
+                                                                                                                            Years (from 1983 to 1990)
+
+
+ processing unit (CPU); they do one thing at a time. Vector proces-
+ sors allow simultaneous computation for problems with vector-like                   Other Research
+or matrix-like structures. Parallel processing, or massively parallel                Recently,            and Anderson provided further evidence for
+processing, is a computer architecture in which hundreds or thou-                    the hypotheses considered here. They gathered valuable data on
+ sands of processors are put on many jobs simultaneously to finish                   the minicomputer, glass, and cement industries and performed
+tasks faster and with greater generality than do more traditional                    tests of the model. Their work not only provides more data to sup-
+supercomputers. This, however, requires wholly new software.                         port the concept of the dominant design and its importance in the
+      Traditional supercomputer makers such as Cray, Fujitsu,                        life cycle of an industry, but also enhances our understanding of
+Hitachi, IBM, and NEC produce mostly sequential machines. A                          this process.
+second set of firms, minisupercomputer makers, now use sequen-
+tial architecture with the incremental innovation of pipelining and                  International Comparisons
+vector processing. Massively parallel computer (MPC) makers are                      The previous examples have illustrated how the entry and exit of
+the latest entrants in the supercomputer industry, as shown in Fig-                  firms from an industry parallels product innovation within that
+ure 2-11. Firms such as Thinking Machines, Intel, Floating Point                     industry. Most of the examples provided here point to the conclu-
+Systems, and Meiko started production about 1985, while the MPC                      sion that entering early is the most viable strategy. Entering at later
+pioneers (Ametek, Myrias, and Goodyear Aerospace) entered the                        stages, although theoretically possible, has proven to be a much
+industry only as far back as 1983.                                                   riskier strategy and less likely to succeed. All of the evidence pre-
+      If the MPC architecture becomes the dominant design, the                       sented here, however, is drawn from the U.S. experience. The
+exit of some traditional firms from the industry would seem likely                   question arises: Does the pattern found in U.S. industry-that is,
+in the future; firms such as IBM and Cray, which have greater                        great falling off in the number of participating firms subsequent to
+resources, might turn toward this architecture.                                      the appearance of the dominant design-hold outside the United
+48   MASTERING THE DYNAMICS OF INNOVATION                                Dominant Designs and the Survival of Firms                        49
+
+States? A limited amount of research indicates that with respect to      design is a signal that an important shift is about to take place with
+Japan it does not.                                                       respect to the pace of innovation and the number of competing
+      The Japanese experience with automobiles, calculators, inte-       firms, the ability of managers and industry watchers to receive that
+grated circuits, and Winchester disk drives shows an opposite pat-       signal-or even better, to predict the emergence of a dominant
+tern-of more firms joining these industries after the appearance         design-should be important with respect to their product designs,
+of the dominant design. The successful late entry of large and           R&D, and process development. There are three schools of
+highly integrated Japanese firms in some of our examples suggests        thought on this question.
+that late entry, although difficult, is possible. The Japanese pattern         First, some believe that dominant designs are the result of
+would support the popular stereotype of American firms as inno-          chance events. In this sense, their appearance cannot be predicted
+vators and creators of new industries and the Japanese as skillful       (though they may be recognized). This school would say that the
+at applying their considerable talents of automated production to        QWERTY keyboard would be a curiosity piece today had August
+product refinement and manufacture. However, the issue of late           Dvorak and his ideas for keyboard design been on the scene earlier,
+entry by Japanese firms could bear much further study. Early entry       during the period of experimentation with the first typewriters.
+may still prove to be the strategy of choice in the future, even for     Steel-bodied automobiles, the norm since Dodge’s all-steel inno-
+Japanese firms, now that their research capabilities are world-class     vation of the           may have been dictated by the high cost of
+and the attention of American firms to excellence in manufacturing       aluminum relative to steel at that time. Certainly aluminum, then
+has been reawakened. In this sense, the strategies of firms in the       as now, had tremendous performance advantages over heavier
+two nations may be converging.                                           steel. Today, when the cost difference is not as great, the tradition
+                                                                         of steel auto bodies is difficult to change.
+Limitations and Caveats                                                        The second school of thought has a deterministic
+The idea of a dominant design does not seem to hold in industries        i.e., something inherent in the technology determines the outcome
+producing nonassembled products such as rayon, glass, pulp and           with respect to the dominant design. The laws of nature, for exam-
+paper, metals, or industrial gases. Also, product categories such as     ple, fairly dictate that only a few synthetic materials (nylon, rayon,
+integrated circuits and photographic film may be difficult to clas-      polyester) have chemical structures that support the spinning of
+sify, as they share some characteristics of both assembled and           long-fibered material. Thus the technological trajectory accom-
+assembled products.                                                      modates only a few possible candidates for the dominant design.
+      Because nonassembled products contain fewer materials than                Third, others suggest that social and organizational factors
+assembled products do, there is more concentrated focus of tech-          work together to determine dominant design. Here again come into
+nological effort and experimentation in the production process;           play arguments such as the early success of the QWERTY key-
+periods of variation and experimentation result in what might be          board having created an investment in particular typing skills and
+called an enabling technology. This enabling technology incorpo-          barriers to other designs. The same may apply to the IBM PC;
+rates many of the elements needed in a continuous production              IBM’s stature can be said to have led to an industry standard
+process and allows the focus of technological effort to shift to pro-     around which small competitors and software writers naturally
+cess improvement rather than process innovation and design.               gravitated.
+                                                                                Neither of these three schools of thought is entirely right or
+     CAN WE RECOGNIZE A DOMINANT DESIGN                                   entirely wrong. Each, in fact, contributes to our understanding of
+     WHEN WE SEE IT?                                                      the facts. But no matter how a dominant design is determined, it is
+                                                                          doubtful that it can be recognized except in retrospect. Attempting
+     For managers, of course, the important question is whether a         to define or anticipate the appearance of a dominant design simply
+dominant design can be seen for what it is when it first appears or       by mapping features and functions of the product alone is doomed
+is discernible only in retrospect. If the emergence of a dominant         to frustration. However, design simplicity and so-called
+50   MASTERING THE DYNAMICS OF INNOVATION                                Dominant Designs and the Survival of Firms                         51
+
+     elegance are clearly characteristic of many dominant designs,       firms introducing new personal computers today must minimize
+the DC-3 aircraft being a notable example.                               their meddling with features in which current users have substan-
+      Our inability to immediately perceive a dominant design for        tial investments: QWERTY keyboards,                disk drives, oper-
+what it is in no way diminishes its impact on the evolution of inno-     ating systems, and so forth. Successful innovations in personal
+vation and competition in an industry. For assembled products, as        computers more often than not are transparent to users.
+later chapters will show clearly, the appearance of a dominant                 Later chapters will make it clear how the same phenomenon
+design ushers in a period in which the rate of product innovation        has occurred in other industries. For example, we will see in the
+slows and the rate of process innovation increases.                      next chapter how the displacement of gas lighting by incandescent
+                                                                         lighting was advanced by Edison’s running wires through the very
+     DOMINANT DESIGNS AND THE COURSE                                     same pipes that once brought illuminating gas into consumers’
+     OF FUTURE INNOVATION                                                homes. Electric lamp sockets were cleverly adapted to former gas
+                                                                         burners. Once the innovation of electric lighting established itself
+     A dominant design has other implications for business and           with users, subsequent technological innovations in lighting (flu-
+R&D decision makers. As we have seen in the case of the type-            orescent) and in electric appliances had to be made with the
+writer, and as we will see in other case histories presented through-    traints imposed by the initial innovation (current, voltage, power
+out this book, a dominant design has a powerful impact on the            grid, socket sizes, and so forth).
+development of future technological innovations within the same                The lesson for technology managers and business strategists
+industry. Discussion of the typewriter in the preceding chapter          is straightforward: understand the constraints of systems, user
+noted the extent to which this one innovation-a mechanical               learning, habits, and collateral assets already imposed by the exist-
+device for putting words on paper-altered life in the business           ing dominant design if there is one. And as you develop innovative
+workplace, with respect to both how work was done and who did            products, consider how these products will fit with current con-
+it. An army of new workers emerged to handle the growing require-        straints.
+ments for business letters, reports, and so forth. It is doubtful that
+the inventors of the typewriter anticipated this development. The             ANTICIPATING MAJOR TECHNOLOGICAL CHANGES
+standardization of typewriter design and the development of wide-             AND COMPETITIVE CHALLENGES
+spread QWERTY keyboarding skills created a market momentum
+that future innovations in typing, word processing, and personal              The preponderance of managers’ external intelligence,
+computers were forced to recognize.                                      thought, and action is usually directed toward competitors making
+      As new waves of innovation                          typewriters,   products like their own that are similar in size, market approach,
+stand-alone word processors, and personal computers-they did so          and competitive strategy. But as has been noted, the most threat-
+within constraints of habits, skills, and user expectations set in       ening challenges are often those that come from outside the tradi-
+place by the original innovation-the manual, QWERTY, Model               tional definition of the industry and its products. Data presented in
+5-style typewriter. User acceptance of the dominant design of the        previous chapters suggest that architectural product innovations
+original innovation created certain boundaries within which sub-         are often produced by new entrants-not only new firms, but also
+sequent waves of innovation wisely developed. Thus IBM success-          large enterprises entering a new area of business or spin-offs of
+fully sought to enhance performance of its electric typewriters          established competitors formed to exploit a new idea. The forma-
+through electromechanical applications only. Whether it would            tion of new firms is highly visible, and this suggests that their com-
+have enjoyed much market success if an improved keyboard con-            mitments to product introductions may be one of the most fruitful
+figuration had been introduced at the same time-even if the key-         sources of early information about technological innovation in
+board was demonstrably more efficient-is doubtful. Likewise,             progress. One of the clear advantages of analyzing new firm
+52     MASTERING THE DYNAMICS OF INNOVATION                              Dominant Designs and the Survival of Firms                                53
+
+     is that there are far fewer of them than there are patents, tech-      memories first tried in the 1970s. Similarly, ceramic fibers
+nical papers, or variations of existing products-there is simply           used to insulate the space shuttle (among other applications)
+less noise to worry about in reaching a conclusion. This is the one        are in some respects an extension of the technology first
+sure approach that anyone could have used to identify the early            tried in the production of ceramic filaments for gas lamps.
+implementation of xerography or of instant photography.                    Vacuum-tube design principles have been used to create a
+      Twenty years ago computer memory was a wholly captive                new system for spraying agricultural chemicals, reducing to
+market, with a few large firms producing magnetic core memories            one-tenth the chemicals earlier required and performing the
+for use in their own products. A survey conducted in 1970 by one           job with inexpensive, small-scale equipment. And some of
+of my students showed that all but five of 31 established computer         the current efforts to eliminate chlorofluorocarbons may
+companies were concentrating their resources on the manufacture            benefit from knowledge of alternatives that were explored
+of core memories. Twelve manufacturers outside the United States           but abandoned earlier in favor of refrigerants now thought to
+had a similar preponderance of magnetic core technology. How-              be harmful to the earth’s atmosphere. Thus looking at the
+ever, eight newly formed firms exhibited a much different pattern.         evolution of technologies may help not only in anticipating
+None were involved with magnetic core memories, while                      possible directions of change, but also in thinking creatively
+including a struggling new company called Intel-were investing in          about the design of new technologies.
+development of the semiconductor memory chip. At least three of
+the new firms-Intel, Signetics, and Cogar-were spin-offs from                 During the past ten years scores of new firms have been
+larger firms and concentrated on more advanced technology than           formed to exploit findings in biotechnology, and new resource com-
+did their parents. Significantly, AT&T and IBM were among the            mitments are exceeding a billion dollars annually. With such wide-
+larger firms also exploring the then-new memory chip idea. Anal-         spread support and experimentation, one might anticipate almost
+ysis of the computer memory market as it unfolded provided a             the equivalent of a revolution in the fortunes of not only medicine
+clear insight into the shape and direction that computer memory          and pharmaceutical firms, but also agriculture and the chemical
+technology would take.                                                   and materials industries. Each innovation in biotechnology will be
+      Monitoring new firm formation would have signaled clearly          seen in terms of increasingly refined, enlarged, and more effective
+the vigor of the calculator and personal computer industries, the        material forms long before it achieves widespread usage. The tech-
+transistor and today’s semiconductor memory chips, hard disk             nical potentials in this area, though, will be much easier to assess
+drives, and flash memories. The same would be true for the manual        than will be the business winners and losers. To anticipate
+typewriter, the electric typewriter, and the word processor, as well
+as for minicomputers, fault-tolerant computers, supercomputers
+and massively parallel computers. This is not to say that new firms      TABLE 2-2.    U.S. Computer Memory Manufacturers’ Product
+will be more successful financially than their established competi-                    Offerings in 1970
+tors. Being on the cutting edge of technology may be an extremely        Memory Technology               Established Firms             New Firms
+vulnerable position. As we have seen, many entrants in the race to
+start a new industry fail. The important point is that this is often     Core memory                              26                           0
+the position taken by a newly formed firm.                               Plated wire                               8
+                                                                         Thin magnetic film                        5                           1
+                                                                         Semiconductor chips                       6                           7
+       A fascinating point to note in Table 2.2 is that older tech-      Number of firms                          31                           8
+     nologies may prefigure the most contemporary ideas.
+     called flash memories, the new memory cards for portable            Source: Compiled by the author from James M. Utterback and James W.
+     computers, are present-day versions of the magnetic film            Brown, Business Horizons, vol. (October 1972).
+54   MASTERING THE DYNAMICS OF INNOVATION                                              Dominant Designs and the Survival of Firms                                55
+
+mercial outcomes, one must look for indicators of combinations of                          and Howard H. Stevenson, “Capital Market Myopia,”           (Boston: Har-
+economic and technical events as well as the political and social                          vard Business School, 1987).
+forces that may create either demand for or resistance to a new                        14. Clayton Christensen, The Innovator’s Challenge: Understanding the
+product or process-a far more complex task.                                                     of Market Environment on Processes of Technology Development in the
+                                                                                          Rigid Disk Drive Industry, DBA diss. (Boston: Harvard Business School,
+                                                                                                 pp. 42-73; also discussion with the author.
+                                                                                          Michael            and Philip Anderson, “Technological Discontinuities and
+                                                                                           Organizational Environment,” Administrative Science Quarterly 3 1
+ 1. David Teece, “Profiting from Technological Innovation,” Research Policy 15,
+    no. 6 (1986). As Teece and others have noted, the dominant design model is
+    better suited to mass markets, where consumer tastes are relatively homo-
+    geneous. Also, representations here about the dominant design extend only
+     to assembled manufacturing industries. Among nonassembled products such
+     as rayon or glass, innovation in the production process-not the emergence
+     of a dominant product design-is a more powerful theme. (See Chapter 5 for
+     further discussion.)
+ 2. Teece, “Profiting from Technological Innovation.”
+ 3. Michael Cusumano, Y. Mylonadis, and R. Rosenbloom, “Strategic Maneu-
+     vering and Mass-Market Dynamics: The Triumph of VHS over Beta.” Busi-
+     ness History Review, vol. 66 (Spring           51-94.
+ 4. Eric von Hippel, The Sources                     (Oxford, England: Oxford Uni-
+     versity Press, 1988).
+ 5. Joseph Schumpeter, Business Cycles: A Theoretical, Historical, and Statis-
+     tical Analysis of the Capitalist Process (New York: McGraw Hill, 1939).
+ 6. Burton Klein, Dynamic Economics (Cambridge, Mass.: Harvard University
+     Press, 1977).
+ 7. In fact, Edward B. Hess improved greatly on this aspect of keyboard mechan-
+     ics by reversing the linkage between the key and the type bar, giving the
+     machine a lighter touch and greater strike power for more even impres-
+     sions.
+ 8. George Nichols Engler, The Typewriter Industry: The Impact of a Significant
+     Technological Innovation, Ph.D. diss. (Los Angeles: University of California
+     at Los Angeles, 1970).
+ 9. William J. Abernathy, The Productivity Dilemma (Baltimore, Md.: Johns
+     Hopkins University Press,            pp. 18-19.
+    R. Fabris, Product Innovation in the Automobile Industry, Ph.D. diss. (Ann
+     Arbor: University of Michigan,             pp. 85-93. These data are biased by
+     the fact that Fabris counts only firms that produced automobiles for five years
+     or more. Other, more comprehensive sources show massive entries and exits
+     in the industry prior to 1923, though not all of the firms counted actually
+     produced many cars.
+11. I am grateful to John Rydz, a participant in the early RCA developments, for
+     the information given here.
+12. J.E.            International Diffusion of Technology: The Case of Semiconduc-
+     tors (Washington D.C.: The Brookings Institution, 1971).
+13. William D.                and Jeffry A. Timmons, Venture Capital      the Cross-
+     roads (Boston: Harvard Business School Press,              pp. 126-127. Fuller
+     discussion of the skyrocketing growth and eventual implosion of the Win-
+     chester drive industry can be found in a case study by William A. Sahlman
+

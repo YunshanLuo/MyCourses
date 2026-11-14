@@ -1,0 +1,714 @@
+                               KTH ROYAL INSTITUTE
+                               OF TECHNOLOGY
+
+
+
+
+    Socio-technical transitions:
+Technological innovation systems and
+      multi-level perspective
+
+             Emrah Karakaya
+               2026-11-04
+Which theoretical framework did they use?
+
+                                            2
+What do you see here?
+4
+         Sustainability transitions
+
+                                                       Long-term
+                                                       Disruptive
+                                                    Multi-dimensional
+                                                           etc.
+
+
+     Sustainability transitions are shifts from unsustainable
+     socio-technical systems to more sustainable alternatives.
+
+
+
+Actor-networks                                         Contested,
+   Institutions                                        Normative
+ Infrastructure                                     Taken-for-granted
+       Etc.                                                etc.
+
+
+
+
+                                                                        5
+        A typical example
+                                             Long-term
+                                             Disruptive
+                                          Multi-dimensional
+                                                 etc.
+
+
+
+
+        Fossil Fuel-Based Cars   Electric Cars
+
+
+
+Actor-networks                               Contested,
+   Institutions                              Normative
+ Infrastructure                           Taken-for-granted
+       Etc.                                      etc.
+
+
+
+
+                                                              6
+What are the meso-level theories to
+study sustainability transitions?
+
+
+
+
+                                      7
+Markard et al (2012)
+
+                       8
+Sustainability transitions literature
+
+
+
+
+                             Hansmeier et al (2021)
+
+                                                      9
+A multi-level perspective on ST
+
+
+
+
+                                  10
+                 A multi-level perspective on ST
+             Structuration
+
+
+
+
+Sociotechnical
+  landscape
+
+
+
+
+Sociotechnical
+   regimes
+                       Industry
+
+
+
+                        Pol icy
+                                  Markets, use r p references
+
+                                                Science
+                                                                ?
+                                                Culture
+
+                             Technolo gy
+
+
+
+
+      Niche
+   Innovations
+
+                                                                    Time
+How do define these three levels?
+
+•   What is a “sociotechnical landscape”?
+    • Broader macro-political, macro-economic and
+      normative/cultural patterns
+
+•   What is a “sociotechnical regime”?
+    • the interlinked mix of technologies, infrastructures,
+      organizations, markets, regulations, and user practices
+      that together deliver societal functions
+
+
+•   What is a “technological niche”?
+    • Micro-level formations
+      – where radical novelties emerge
+      – where new business models experimented
+
+
+
+
+                                                                12
+                                    One possible scenario
+             Structuration
+                                                                Landscape developments put pressure on existing
+                                                                  regime, which opens up, creating windows of
+                                                                           opportunity for novelties
+Sociotechnical
+  landscape
+
+
+
+                                  Markets, use r p references
+
+                       Industry                                              Sociotechnical regime is “dynamically stable”.
+Sociotechnical                                  Science
+                                                                          On different dimensions there are ongoing processes
+   regimes
+                        Pol icy
+                                                Culture
+
+                             Technolo gy
+                                                                              • External influences on niches (via expactations
+                                                                                and networks)
+                                                                              • Small networks of actors support novelties on the
+                                                                                basis of expectations and visions.
+     Niche                                                                    • Learning processes take place on multiple
+  Innovations                                                                   dimensions (co-construction).
+                                                                                                                           Time
+                                    One possible scenario
+             Structuration
+
+
+
+
+Sociotechnical
+  landscape
+
+
+
+                                  Markets, use r p references
+
+                       Industry
+Sociotechnical                                  Science
+                                                                       New configuration breaks through, taking advantage of “windows of
+   regimes                                                                 opportunity”. Adjustments occur in sociotechnical regime
+                        Pol icy
+                                                Culture
+
+                             Technolo gy
+                                                                                    Elements become aligned, and stabilize in
+                                                                                     a dominant design. Internal momentum
+                                                                                                  increases.
+
+                                                                Window of
+     Niche                                                      opportunity
+  Innovations
+
+                                                                                                                Time
+                                    One possible scenario
+             Structuration
+
+
+
+
+Sociotechnical
+  landscape
+
+
+
+                                  Markets, use r p references                                         Markets, use r p references
+
+                       Industry                                                            Industry
+Sociotechnical                                  Science                                                             Science
+
+   regimes
+                        Pol icy                                                             Pol icy
+                                                Culture                                                            Culture
+
+                             Technolo gy                                                         Technolo gy
+
+
+
+
+                                                                Window of
+     Niche                                                      opportunity
+  Innovations
+
+                                                                                                                                    Time
+
+                                                                  (see Geels et al 2017, and Rosenbloom & Markard, 2020)
+What do you know about ’Autopiloten’?
+
+
+
+
+                                        16
+     Three levels in the ‘Autopiloten’ case ☺
+             Structuration
+             of activities in
+            local practices
+
+
+                                                                Any macro-political
+Sociotechnical                                                                         Goal of carbon-free
+                                                                pressures on the       future? Resource
+  landscape
+                                                                regime?                efficiency? Hypes?
+
+                                Markets, user preferences        Which dominant       Dominant regime of
+                                                                                      human urban transports
+                         Industry                                regime does
+                                             Science                                  relying on large human-
+Sociotechnical                                                   ‘Autopiloten’ have   driven buses operating
+   regime                 Policy                                 the potential to     according to fixed routes
+                                              Culture
+                                                                 transform?           and schedules?
+                                Technology
+                                                        Autopiloten, 2018
+
+                              Niche
+                           Innovations
+                                                                                                     Time
+A small enterprise in Germany
+
+
+
+
+                                      Is HET at niche level or
+ Hartmann Energietechnik GmbH (HET)   regime level?
+
+
+                                                                 18
+                 What about Covid-19?
+          Structuration
+
+
+
+
+Sociotechnical
+  landscape
+
+
+
+                             Markets, user preferences                                          Markets, user preferences
+
+                    Industry                                                           Industry
+                                          Science                                                            Science
+   Existing
+Sociotechnical      Policy                                                             Policy
+                                          Culture                                                           Culture
+   regimes
+                          Technology                                                       Technology
+
+
+
+
+                                                                   Window of
+     Niche
+  Innovations                                                      opportunity
+
+
+                                                                                                                            Time
+
+                                                                                                                       19
+                                               (see also Rosenbloom & Markard, 2020)
+Technological Innovation Systems
+
+
+
+
+Technological innovation systems are socio-technical
+systems focused on the development, diffusion and use of a
+particular technology (in terms of knowledge, product or both)
+(Bergek et al 2008)
+
+
+
+
+                                                                 20
+21
+        Structural dimensions
+Category                      Sub-categories
+Components Actors             - Civil society
+                              - Companies: start-ups, small and medium-sized enterprises, large
+                              firms, multi-national companies
+                              -Knowledge institutes: universities, technology institutes, research
+                              centres, schools
+                              - Government
+                              - NGOs
+                              - Other parties: legal organisations, financial organisations/banks,
+                              intermediaries, knowledge brokers, consultants
+               Institutions   - Hard: rules, laws, regulations, instructions
+                              - Soft: customs, common habits, routines, established practices,
+                              traditions, ways of conduct, norms, expectations
+               Infrastructure - Physical: artefacts, instruments, machines, roads, buildings,
+                              networks, bridges, harbours
+                              - Knowledge: knowledge, expertise, know-how, strategic information
+                              - Financial: subsidies, financial programs, grants etc.
+Interactions                  - At the level of networks
+(relationships and links)     - At the level of individual contacts
+
+
+
+                                    (adopted from Wieczorek and Hekkert, 2012)                  22
+        Structural dimensions
+Category                      Sub-categories
+Components Actors             - Civil society
+                              - Companies: start-ups, small and medium-sized enterprises, large
+                              firms, multi-national companies
+                              -Knowledge institutes: universities, technology institutes, research
+                              centres, schools
+                              - Government
+                              - NGOs
+                              - Other parties: legal organisations, financial organisations/banks,
+                              intermediaries, knowledge brokers, consultants
+               Institutions   - Hard: rules, laws, regulations, instructions
+                              - Soft: customs, common habits, routines, established practices,
+                              traditions, ways of conduct, norms, expectations
+               Infrastructure - Physical: artefacts, instruments, machines, roads, buildings,
+                              networks, bridges, harbours
+                              - Knowledge: knowledge, expertise, know-how, strategic information
+                              - Financial: subsidies, financial programs, grants etc.
+Interactions                  - At the level of networks
+(relationships and links)     - At the level of individual contacts
+
+
+
+                                    (adopted from Wieczorek and Hekkert, 2012)                  23
+        Structural dimensions
+Category                      Sub-categories
+Components Actors             - Civil society
+                              - Companies: start-ups, small and medium-sized enterprises, large
+                              firms, multi-national companies
+                              -Knowledge institutes: universities, technology institutes, research
+                              centres, schools
+                              - Government
+                              - NGOs
+                              - Other parties: legal organisations, financial organisations/banks,
+                              intermediaries, knowledge brokers, consultants
+               Institutions   - Hard: rules, laws, regulations, instructions
+                              - Soft: customs, common habits, routines, established practices,
+                              traditions, ways of conduct, norms, expectations
+               Infrastructure - Physical: artefacts, instruments, machines, roads, buildings,
+                              networks, bridges, harbours
+                              - Knowledge: knowledge, expertise, know-how, strategic information
+                              - Financial: subsidies, financial programs, grants etc.
+Interactions                  - At the level of networks
+(relationships and links)     - At the level of individual contacts
+
+
+
+                                    (adopted from Wieczorek and Hekkert, 2012)                  24
+       Systemic functions
+Category             Explanation
+Experimentation by   Entrepreneurs are essential for a well-functioning innovation system. Their role is to turn
+entrepreneurs        the potential of new knowledge, networks and markets into concrete actions to
+                     generate – and take advantage of – new business opportunities.
+Knowledge            Mechanisms of learning are at the heart of any innovation process, where knowledge is
+development          a fundamental resource. Therefore, knowledge development is a crucial part of
+                     innovation systems.
+Knowledge            To learn relevant knowledge, it needs to be exchanged between actors in the system.
+exchange
+Guidance of the      This system function refers to those processes that lead to a clear development goal for
+search               the new technology based on technological expectations, articulated user demand and
+                     societal discourse. This process enables selection, which guides the distribution of
+                     resources.
+Market formation     This process refers to the creation of markets for the new technology. In the early
+                     phases of development, these can be small niche markets, but later, a larger market is
+                     needed to facilitate cost reduction and incentives for entrepreneurs to move in.
+Resource             The financial, human and physical resources are necessary basic inputs for all activities
+mobilisation         in the innovation system. Without these resources, other processes are hampered.
+
+Creation of          Innovation is, by definition, uncertain. A certain level of legitimacy is required for actors to
+legitimacy           commit to the new technology with investment, adoption decisions etc.
+
+
+
+
+                                                                  (Wieczorek et al., 2013)                        25
+       Systemic functions
+Category             Explanation
+Experimentation by   Entrepreneurs are essential for a well-functioning innovation system. Their role is to turn
+entrepreneurs        the potential of new knowledge, networks and markets into concrete actions to
+                     generate – and take advantage of – new business opportunities.
+Knowledge            Mechanisms of learning are at the heart of any innovation process, where knowledge is
+development          a fundamental resource. Therefore, knowledge development is a crucial part of
+                     innovation systems.
+Knowledge            To learn relevant knowledge, it needs to be exchanged between actors in the system.
+exchange
+Guidance of the      This system function refers to those processes that lead to a clear development goal for
+search               the new technology based on technological expectations, articulated user demand and
+                     societal discourse. This process enables selection, which guides the distribution of
+                     resources.
+Market formation     This process refers to the creation of markets for the new technology. In the early
+                     phases of development, these can be small niche markets, but later, a larger market is
+                     needed to facilitate cost reduction and incentives for entrepreneurs to move in.
+Resource             The financial, human and physical resources are necessary basic inputs for all activities
+mobilisation         in the innovation system. Without these resources, other processes are hampered.
+
+Creation of          Innovation is, by definition, uncertain. A certain level of legitimacy is required for actors to
+legitimacy           commit to the new technology with investment, adoption decisions etc.
+
+
+
+
+                                                                  (Wieczorek et al., 2013)                        26
+       Systemic functions
+Category             Explanation
+Experimentation by   Entrepreneurs are essential for a well-functioning innovation system. Their role is to turn
+entrepreneurs        the potential of new knowledge, networks and markets into concrete actions to
+                     generate – and take advantage of – new business opportunities.
+Knowledge            Mechanisms of learning are at the heart of any innovation process, where knowledge is
+development          a fundamental resource. Therefore, knowledge development is a crucial part of
+                     innovation systems.
+Knowledge            To learn relevant knowledge, it needs to be exchanged between actors in the system.
+exchange
+Guidance of the      This system function refers to those processes that lead to a clear development goal for
+search               the new technology based on technological expectations, articulated user demand and
+                     societal discourse. This process enables selection, which guides the distribution of
+                     resources.
+Market formation     This process refers to the creation of markets for the new technology. In the early
+                     phases of development, these can be small niche markets, but later, a larger market is
+                     needed to facilitate cost reduction and incentives for entrepreneurs to move in.
+Resource             The financial, human and physical resources are necessary basic inputs for all activities
+mobilisation         in the innovation system. Without these resources, other processes are hampered.
+
+Creation of          Innovation is, by definition, uncertain. A certain level of legitimacy is required for actors to
+legitimacy           commit to the new technology with investment, adoption decisions etc.
+
+
+
+
+                                                                  (Wieczorek et al., 2013)                        27
+Figure 1. Interactions between the conceptual elements in a technological innovation system and the
+                                       multi-level perspective
+
+
+
+
+                                                             (Karakaya et al., 2018)
+                                                                                                      28
+Transition pathways
+
+•   Transition pathways are different from a “business-as-usual” situation.
+•   Depending on the timing and nature of multi-level interactions, different
+    kinds of transitions might occur (Geels and Schot, 2007).
+
+
+
+
+                                              (Karakaya et al., 2018)
+
+
+
+
+                                                                                29
+(Geels et al 2016:Karakaya et al., 2018)30
+E.g., due to disruption by
+shocks, incumbents may                E.g., new entrants
+collapse in short term                may replace the
+                                      incumbents
+
+
+
+
+E.g., incumbents try to      E.g., new alliances between
+substantially re-orientate   incumbents and new entrants
+
+
+
+
+                                  (Geels et al 2016:Karakaya et al., 2018)31
+A case study of iron and steel Industry in Sweden
+A case study approach
+
+•   The major part of the data was
+    collected between September
+    2016 and December 2017.
+
+•   The data includes
+     • 3 field trips
+     • 14 interviews,
+     • 60 hours observation and
+     • Internal data of companies
+     • Public debates, newspaper
+        articles etc.
+
+
+
+
+                                     33
+What is the most promising niche innovaton within steel industry?
+A technological niche … ?
+
+
+
+
+                            35
+A technological niche … ?
+
+
+
+
+    https://www.youtube.com/watch?v=zk5-8DM0OvA
+                                                  36
+What makes this technology so promising?
+
+1) A regime under high landscape pressures
+
+• The iron and steel industry is account for approx. one
+  third of global industrial CO2 emissions
+
+
+
+
+                                                           37
+               2) Incumbents’ alliance & 3) State support
+
+     “The iron and steel industry is very
+     different in comparison to other industries
+     such as the “solar photovoltaic sector” –
+     which is perhaps a new market with a lot
+     of new actors.
+
+“We (three companies) have of course very extensive
+knowledge if you think about the value chain of the
+future [hydrogen-based] iron and steel production […]
+So, we make a [good] combination”
+
+
+
+ They [the companies] cannot do it [transition] without
+ financial help [from the government]. This [transition to
+ hydrogen-based reduction] is extremely expensive.”
+
+      Read more:
+      • Karakaya, E., Nuur, C., & Assbring, L. (2018). Potential transitions in the iron and steel industry in Sweden: towards a
+        hydrogen-based future?. Journal of cleaner production, 195, 651-663.
+      • Engwall, M., Kaulio, M., Karakaya, E., Miterev, M., & Berlin, D. (2021). Experimental networks for business model innovation:
+        A way for incumbents to navigate sustainability transitions?. Technovation, 108, 102330.
+
+
+                                                                                                                                        38
+Is the TIS functioning well?
+
+
+
+
+                               39
+Is the TIS functioning well?
+
+
+
+
+                               40
+So what kind of potential transitions are likely to occur?
+      And why this is important to think about?
+
+
+
+
+                                                             41
+         It is not the case that “incumbents
+         [will] collapse because of            The TIS is not yet developed and, also, there
+         landscape pressures, creating           are no new entrants that can replace the
+         opportunities for new entrants”                       incumbents.
+         (Geels et al., 2016, p. 900)
+
+
+
+
+However, the case does not provide                 The TIS is not developed enough to create
+any evidence for struggles between                 technological add-ons or combinations.
+policymakers and industry (Geels et
+al., 2016) or regime resistance
+(Geels, 2014) which is likely to
+happen in a transformation pathway.
+
+
+
+
+                                                                                               42
+What else happened recently?
+
+• H2GreenSteel (Stegra) joined the race
+• Many other European projects initiated
+
+•    Landscape developments have changed some direction
+    • Higher electricity prices
+    • Carbon leakage
+    • Turbulent political climate
+
+
+
+
+                                                          43
+A lot of controversies along the way
+                  2023-10-21
+
+
+
+
+                                       2025-10-22
+
+
+
+
+                                                    44
+Latest news about Stegra
+
+
+
+
+                           https://www.svt.se/nyheter/lokalt/n
+                           orrbotten/stegra-byter-vd-buskhe-
+                           tar-over
+
+
+
+
+                                                                 45
+Any Questions & Comments?
+
+
+
+
+                            46
+Thanks!
+
+
+
+
+Emrah Karakaya
+
+E-mail: emrah.karakaya@indek.kth.se
+
+
+
+
+                                      47
+             References
+Bergek, A., Jacobsson, S., Carlsson, B., Lindmark, S., Rickne, A., 2008. Analyzing the functional dynamics of technological innovation systems : A
+scheme of analysis Analyzing the Functional Dynamics of Technological Innovation Systems : A Scheme of Analysis **. Res. Policy 37, 407–429.
+
+Geels, F.W., 2002. Technological transitions as evolutionary reconfiguration processes: a multi-level perspective and a case-study. Res. Policy 31,
+1257–1274.
+
+Geels, F.W., Kern, F., Fuchs, G., Hinderer, N., Kungl, G., Mylan, J., Neukirch, M., Wassermann, S., 2016. The enactment of socio-technical transition
+pathways : A reformulated typology and a comparative multi-level analysis of the German and UK low-carbon electricity transitions ( 1990 – 2014 ).
+Res. Policy 45, 896–913.
+
+Geels, F.W., Sovacool, B., Schwanen, T., Sorrell, S., 2017. Sociotechnical transitions for deep decarbonization. Sci. Policy Forum 357, 1242–1244.
+
+Hansmeier, H., Schiller, K., Rogge, K.S., 2021. Towards methodological diversity in sustainability transitions research? Comparing recent
+developments (2016-2019) with the past (before 2016). Environ. Innov. Soc. Transitions 38, 169–174.
+
+Karakaya, E., Nuur, C., Assbring, L., 2018. Potential transitions in the iron and steel industry in Sweden; towards a hydrogen based future? J. Clean.
+Prod. 195, 651–663.
+
+Karakaya, E., Nuur, C., Hidalgo, A., 2016. Business model challenge: Lessons from a local solar company. Renew. Energy 85, 1026–1035.
+
+Markard, J., Raven, R., Truffer, B., 2012. Sustainability transitions: An emerging field of research and its prospects. Res. Policy 41, 955–967.
+
+Rosenbloom, D., Markard, J., 2020. A COVID-19 recovery for climate. Science (80-. ). 368, 447.
+
+Wieczorek, A.J., Hekkert, M.P., 2012. Systemic instruments for systemic innovation problems: A framework for policy makers and innovation scholars.
+Sci. Public Policy 39, 74–87.
+
+Wieczorek, A.J., Negro, S.O., Harmsen, R., Heimeriks, G.J., Luo, L., Hekkert, M.P., 2013. A review of the European offshore wind innovation system.
+Renew. Sustain. Energy Rev. 26, 294–306.
+
+
+
+                                                                                                                                                         48
+

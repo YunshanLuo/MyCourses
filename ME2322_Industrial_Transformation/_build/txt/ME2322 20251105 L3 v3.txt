@@ -1,0 +1,724 @@
+                             KTH ROYAL INSTITUTE
+                             OF TECHNOLOGY
+
+
+
+
+Diffusion of innovations:
+Adopters and change agents
+
+
+Emrah Karakaya, 2026-11-05
+Where is this photo taken?
+Are they solar thermal or solar photovoltaics panels?
+      Which innovation has been diffusing in the
+      society the fastest?
+
+
+
+
+Solar Photovoltaic Systems
+
+
+
+
+                                                   3
+What is an innovation?
+
+
+An innovation is an idea, practice, or object
+that is perceived as new by an individual or other unit of
+adoption (Rogers, 1962).
+
+
+Any examples of “unit of adoption”?
+
+Individuals, households, organizations, social groups, local
+and regional governing bodies, cities, countries etc.
+
+
+
+
+                                                               4
+Do you see any innovation here?
+
+
+
+
+                                  5
+What is diffusion?
+
+Diffusion: A process of movement of molecules from high-
+concentrated regions to other regions (In natural sciences)
+
+
+
+
+                                                              6
+What is diffusion?
+
+Diffusion: A process by which an innovation is
+communicated through certain channels over time among the
+members of a social system (Rogers, 1995).
+
+
+
+
+                                                            7
+Do you see any diffusion here?
+S-curves
+
+
+
+
+           9
+S-curves
+
+
+
+                                                     Cumulative Adoption
+
+
+
+
+                                          Adoption
+                                            rate
+
+
+                                                               time
+             Early    Early    Late      Laggards
+ Innovators adopters majority majority
+
+
+
+
+                                                                           10
+Any similarities with pandemics?
+
+
+
+
+                           https://covid19.who.int/ (accessed 10/02/2020)
+
+
+
+                                                                            11
+            S-curves in practice
+
+•   We can easily observe s-curves of diffusion of innovations in practice
+
+
+
+
+                                     *compiled by the Economist.
+
+
+
+
+                                                                             12
+Crossing the chasm
+
+
+
+
+Moore (2002): The most difficult step is making the transition
+between visionaries (early adopters) and pragmatists (early
+majority)
+
+
+
+
+                                                                 13
+Does innovation spread faster today?
+
+
+
+
+         Nicholas Felton, The New York Times Company, 2008
+
+
+
+
+                                                             14
+                                                                        Diffusion by
+                                                                        infusion into
+                                                                         preexisting
+                                                                       technologies?
+
+
+                                                                    Check: Engström, E., &
+                                                                    Strimling, P. (2020). Deep
+                                                                    learning diffusion by infusion
+                                                                    into preexisting
+                                                                    technologies–Implications
+                                                                    for users and society at
+                                                                    large. Technology in
+                                                                    Society, 63, 101396.
+
+
+
+
+Buchholz, K. (2023). Threads Shoots Past One Million User Mark at
+Lightning Speed. Statista. Statista Inc.. Accessed: November 07,
+2025. https://www.statista.com/chart/29174/time-to-one-million-
+users/
+
+
+                                                                                                     15
+World – Solar PV, Today
+
+
+
+
+                          16
+Bangladesh vs. Sweden - Today
+
+
+
+
+                                17
+When did China take over Germany’s position?
+
+
+
+
+                                               18
+Solar Home Systems in Bangladesh
+
+  Less than 130Wp
+
+
+
+
+                                   19
+Solar PV systems in Germany
+
+
+
+
+                              20
+How do innovations diffuse?
+
+
+
+
+                              21
+  Diffusion research goes back to…
+
+
+                        “The laws of imitation”
+
+                        He observed that, e.g.,
+                        • the rate of adoption of a
+                          new idea usually followed
+                          an S-shaped curve over
+                          time.
+
+                        • the take-off in the S-curve
+Gabriel Tarde             of adoption begins to occur
+ (1843-1894)              when the opinion leaders
+                          in a system adopt a new
+                          idea.
+
+
+
+
+                                                        22
+ Everett Rogers
+
+
+
+
+  Everett M. Rogers
+     (1931-2004)
+PhD in Rural Sociology   First edition published in 1962 ..
+
+
+
+
+                                                              23
+ Rogerian vs. Schumpeterian Approach
+
+
+
+
+  Everett M. Rogers       Joseph Schumpeter
+     (1931-2004)              (1883-1950)
+PhD in Rural Sociology   PhD in Economics/Law
+
+
+
+
+                                                24
+Rogerian vs. Schumpeterian Approach
+
+
+
+
+  Demand Side           Supply Side
+
+
+
+
+                                      25
+    Rogers’ view on Diffusion of Innovations
+
+
+
+
+           Perceived characteristics of innovation
+
+
+
+
+Decision      Social          Communication          Change
+ Type         System            channels             agents
+
+
+
+
+                                                              26
+Modern computational approaches
+
+
+
+
+                                  27
+A brief synopsis …
+
+
+
+
+https://www.sciencedirect.com/science/article/pii/B978008102
+2955106389
+
+
+
+
+                                                               28
+Comparison of two cases
+
+
+
+
+                          29
+Who are they?
+
+
+
+
+                30
+    Two cases
+
+
+
+
+Case    Innovation          Main initial source    Adopters
+Study
+A       Off-grid solar PV   Grameen Shakti         Some local     Sriwannawit&
+        Systems                                    Bangladeshis   Laestadius
+                                                                  (2015)
+B       On-grid solar PV    Hartmann Energitechnik Some local     Karakaya,
+        systems             GmbH                   Germans        Hidalgo, & Nuur,
+                                                                  (2015)
+
+
+
+
+                                                                                     31
+Characteristics of innovations
+
+The characteristics of innovations, as perceived by
+individuals, help to explain their different rate of adoption.
+
+1. Relative advantage is the degree to which an innovation
+   is perceived as better than the idea it supersedes.
+
+
+
+
+       What about                            ?
+
+
+
+
+                                                                 32
+Relative advantage
+
+In the case of Grameen Shakti (Bangladesh) – An interview
+from Sriwannawit& Laestadius (2015)
+
+“It has so many advantages, like we can use electricity to light up
+our house, listen to radio, charge mobile phone etc. This SHS has
+brought huge positive change in our lives”
+
+In the case of Hartmann Energietechnik GmbH (Germany) – An
+interview from Karakaya, Hidalgo, & Nuur, (2015)
+
+”Electricity prices are getting expensive. If you currently have
+money in the bank, you have interest rate of about 1 percent…
+With a photovoltaic system you can financially be satisfied…”
+
+
+
+
+                                                                      33
+Relative advantage
+
+In the case of Grameen Shakti (Bangladesh) – An interview
+from Sriwannawit& Laestadius (2015)
+
+“It has so many advantages, like we can use electricity to light up
+our house, listen to radio, charge mobile phone etc. This SHS has
+brought huge positive change in our lives”
+
+In the case of Hartmann Energietechnik GmbH (Germany) – An
+interview from Karakaya, Hidalgo, & Nuur, (2015)
+
+”Electricity prices are getting expensive. If you currently have
+money in the bank, you have interest rate of about 1 percent…
+With a photovoltaic system you can financially be satisfied…”
+
+
+
+
+                                                                      34
+Characteristics of innovations
+
+2. Compatibility is the degree to which an innovation is
+perceived as being consistent with the existing values, past
+experiences, and needs of potential adopters.
+
+
+
+
+      What about                             ?
+
+
+
+
+                                                               35
+•   Identification of a corpus of 228 focal words that are associated with
+    LLMs
+•   2023: 12 % of publications exhibits evidence of LLM influence
+•   2025: 57% of publications exhibits evidence of LLM influence
+•   Some other insights
+    • Lower-ranked institutions exhibit higher rates than elite universities
+    • Regional difference
+        – MENA, Afghanistan and & Pakistan: Higher rates
+        – North America, Europe & Central Asia: Lower rates
+
+
+
+
+                                                                               36
+Compatibility
+
+In the case of Grameen Shakti (Bangladesh)
+• No grid or infrastructure is required
+• Mostly women are chosen as full-time specialists who travel
+    around the country to service
+
+
+
+In the case of Hartmann Energietechnik GmbH (Germany)
+• Traditionally, people like to be independent, innovative and
+    self-sufficient
+• A region – knows how to safe money
+
+
+
+
+                                                                 37
+Source: Sovacool, Benjamin K., and Ira Martina Drupady.
+"Summoning earth and fire: The energy development implications of
+Grameen Shakti (GS) in Bangladesh." Energy 36.7 (2011): 4445-4459.
+
+
+
+
+                                                                     38
+Characteristics of innovations
+
+3. Complexity is the degree to which an innovation is
+perceived as difficult to understand and use.
+
+
+
+
+     What about                           ?
+
+
+
+
+                                                        39
+Complexity
+
+In the case of Grameen Shakti (Bangladesh) – An interview
+from Sriwannawit& Laestadius (2015)
+
+““The training session helped me to operate everything properly
+and the whole process is very easy for me to use.” ”
+
+In the case of Hartmann Energietechnik GmbH (Germany) –
+An interview from Karakaya, Hidalgo, & Nuur, (2015)
+
+ ” Since solar systems were actually built more and more, I have
+been thinking about building a house and equip it with a PV
+system, (since) 10 years”
+
+
+
+
+                                                                   40
+Complexity
+
+In the case of Grameen Shakti (Bangladesh) – An interview
+from Sriwannawit& Laestadius (2015)
+
+““The training session helped me to operate everything properly
+and the whole process is very easy for me to use.” ”
+
+In the case of Hartmann Energietechnik GmbH (Germany) –
+An interview from Karakaya, Hidalgo, & Nuur, (2015)
+
+ ” Since solar systems were actually built more and more, I have
+been thinking about building a house and equip it with a PV
+system, (since) 10 years”
+
+
+
+
+                                                                   41
+Characteristics of innovations
+
+4. Trialability is the degree to which an innovation may be
+experimented with on a limited basis (ahead of full adoption).
+
+
+
+
+        What about                            ?
+
+
+
+
+                                                                 42
+Trialability
+
+In the case of Grameen Shakti (Bangladesh)
+• No easy way to try before adoption
+• Peers/neighbours can help
+
+
+
+In the case of Hartmann Energietechnik GmbH (Germany)
+• Open-door days
+• Solar-walks
+
+
+
+
+                                                        43
+                 Solar-walks
+
+
+
+
+Open-door days
+
+
+
+
+                               44
+Characteristics of innovations
+
+5. Observability is the degree to which the results of an
+innovation are visible to others.
+
+• Visibility stimulates peer discussion of a new idea, as
+  friends and neighbours of an adopter often request
+  innovation-evaluation information about it.
+
+• E.g., Home desktop computers (in 1990s) vs. Smart
+  phones (in 2010s)
+
+
+
+
+                                                            45
+Observability?
+
+
+
+
+    Bangladesh   Germany
+
+
+
+
+                           46
+    Rogers’ view on Diffusion of Innovations
+
+
+
+
+           Perceived characteristics of innovation
+
+
+
+
+Decision      Social          Communication          Change
+ Type         System            channels             agents
+
+
+
+
+                                                              47
+Communication Channels
+
+Communication is the process by which participants create
+and share information with one another in order to reach a
+mutual understanding.
+
+
+
+• How to transmit ideas?
+  • Mass media, interpersonal channels?
+
+
+
+
+                                                             48
+Communication channels?
+
+
+
+
+   Bangladesh         Germany
+
+
+
+
+                                49
+Decision types
+
+three main types of innovation-decisions:
+(1) optional innovation-decisions, choices made by an
+    individual independent of the decisions of other members
+    of the system to adopt or reject an innovation,
+
+(2) collective innovation-decisions, choices made by
+    consensus among the members of a system, and
+
+(3) authority innovation-decisions, choices made by
+    relatively few individuals in a system who possess power,
+    status, or technical expertise.
+
+
+
+
+                                                                50
+Decision types?
+
+
+
+
+    Bangladesh    Germany
+
+
+
+
+                            51
+A social System
+
+A social system is defined as a set of interrelated units that
+are engaged in joint problem-solving to accomplish a
+common goal.
+
+Bangladesh vs. Germany
+
+
+
+
+                                                                 52
+Two cases
+
+
+
+
+            53
+Change agents
+
+Change agents are individuals or types of agencies that influence
+the decisions of units of adoptions in a desirable direction, at least
+from their perspective.
+
+Most common roles for such change agents:
+• To develop a need for change
+• To establish an information-exchange relationship
+• To diagnose problems
+• To create an intent in the unit of adoption to change
+• To translate an intent to action
+• To stabilize adoption and prevent discontinuance
+• To achieve a terminal relationship
+
+
+
+
+                                                                         54
+Change agents: Hartmann vs. Yunus
+
+
+
+
+     What about              ?
+
+
+
+                                    55
+Any Questions & Comments?
+
+
+
+
+                            56
+Thanks!
+
+
+
+
+Emrah Karakaya
+E-mail: emrah.karakaya@indek.kth.se
+
+
+
+
+                                      57
+References
+
+Karakaya, E., Hidalgo, A., & Nuur, C. (2015). Motivators for adoption of photovoltaic
+systems at grid parity: A case study from Southern Germany. Renewable and
+Sustainable Energy Reviews, 43, 1090-1098.
+
+Karakaya, E., & Sriwannawit, P. (2016). Diffusion of Innovations. In “A Dynamic Mind.
+Perspectives on Industrial Dynamics in Honour of Staffan Laestadius” (Editors: Pär
+Blomkvist & Petter Johansson). Division of Sustainability and Industrial Dynamics,
+Department of Industrial Economics and Management, KTH. ISSN 1100-7982, ISBN
+978-91-7729-170-1.
+
+Karakaya, E., & Sriwannawit Lundberg, P. (2020) Diffusion, in International
+Encyclopedia of Human Geography (Second Edition), Editor: Audrey Kobayashi,
+Elsevier, Pages 311-315,
+
+Rogers, E. M. (2010). Diffusion of innovations. Simon and Schuster.
+
+Sriwannawit, P., & Laestadius, S. (2015). Determinants of the Diffusion of Solar Home
+Systems: Case Study among Low-Income Inhabitants in Bangladesh. Energy &
+Environment, 26(5), 803-816.
+
+
+
+
+                                                                                        58
+

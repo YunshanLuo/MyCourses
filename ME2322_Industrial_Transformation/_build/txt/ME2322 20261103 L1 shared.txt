@@ -1,0 +1,231 @@
+             ME2322 – L1
+Industrial dynamics: dominant design
+  and general-purpose technologies
+              Emrah Karakaya
+               2026-11-03
+What does
+“Industrial
+Dynamics”
+  mean?
+Industrial
+Dynamics
+Various concepts / theoretical frameworks
+                                        Innovation-based
+                                        industrial change
+    Supply side of innovation                                        Demand side of innovation
+    • Technological innovation                                       • Diffusion of innovations
+       systems (Bergek, Hekkert)                                       (Rogers)
+    • Multi-level perspective (Geels)                                • Technology acceptance
+    • Development blocks                                               (Venkatesh)
+       (Dahmen)
+    • General-purpose technologies
+       (Bresnahan)
+
+                                 How companies navigate industrial change
+                                 • Dominant design (Utterback)
+                                 • Disruptive innovation (Christensen)
+                                 • Adaptation strategies (Miles)
+                                 • Business models (Massa)
+4
+Typical cases
+
+
+
+
+5
+Why a typical
+keyboard
+looks like this?
+            A product class is that
+            • wins the loyalty and support of the marketplace,
+            • competitors and innovators must stick firmly to
+              if they hope to command significant market
+What is a     following
+
+dominant
+            A dominant design
+design?     • defines how a product should look and operate
+            • makes some selected features implicit
+
+            (Utterback, 1996)
+Underwood Model 5
+“The Underwood Model 5, introduced in 1899, is the
+result of almost thirty years of innovation and
+improvements in typewriter manufacture. It became
+the ubiquitous office machine for another thirty
+years, and its sales led Underwood to dominate the
+market. The Model 5 became the modern standard of
+how a typewriter worked and what it looked like”
+
+https://americanhistory.si.edu/collections/object/nm
+ah_998196
+             A firm in possession of collateral assets such as
+             • market channels,
+             • brand image
+             • customer switching costs
+How does a   will have some advantage over its competitors in terms of
+             enforcing its product as the dominant design
+dominant
+design       Other factors
+             • Regulations and government interventions
+emerge?      • Strategic management at the firm level (e.g., alliances vs.
+               vertical integration)
+             • Users (customers) perceptions
+
+
+             (Utterback, 1996)
+     Dominant Design, competition and industry structure
+
+
+
+
+                                            Low product innovation
+High product innovation                     High process innovation
+Low process innovation
+              Can we recognize a dominant design ex-ante?
+              Nope. But, what may matter?
+              • Chance events
+The           • Technological affordance
+concept’s     • Social and organizational factors
+foundations
+              Limitations?
+              • Mostly based on USA context
+              • Mostly valid for “assembled” products
+                • Dominant designs shape our future
+                    • E.g., typewriter “Mechanical device for putting words
+                      on paper - altered life in the business workplace,
+                        • with respect to both how work was done and who
+                           did it.
+  Managerial            • An army of new workers emerged to handle the
+                           growing requirements”
+Implications?
+                • Dominant design create certain boundaries
+
+
+                • If you have an innovative product in mind, think about how
+                  it will with the current dominant design
+                A technology that is
+                • Applicable across a broad range of sectors
+                • Used in a wide variety of products or processes
+                • Complement other innovations to thrive
+General-        • Dynamic, not easily substituted
+Purpose
+                • Q: Characterized with a dominant design?
+Technologies?
+                ( Bresnahan & Trajtanberg 1995; Bekar et al, 2018,
+                Cantner and Vannuccini, 2017)
+              • Internal combustion engines, electricity and
+                internet are some of well-known examples
+                of what many scholars call general-purpose
+Any typical     technologies,
+examples?        • having reached wide scale diffusion in modern
+                   history (Carlsson, 2004; Jovanovic & Rousseau,
+                   2005).
+Have you heard about Ford’s Model T?
+Internal combustion engines
+• After a long phase of experimentation and competition – a dominant design of an automobile
+  has emerged, standing out from steam and electric vehicles, and forcing several companies exit
+  the market.
+• The dominant design: all-steel, closed-body automobile with a petroleum-fueled internal
+  combustion engine (Utterback, 1996)
+
+
+
+
+               Electric cars        Cars with steam        Cars with internal
+                                        engines           combustion engines
+Is internal combustion engine a technology that is
+characterized by the following?
+  • Applicable across a broad range of sectors
+  • Used in a wide variety of products or processes
+  • Complement other innovations to thrive
+  • Dynamic, not easily substituted
+  • Characterized with a dominant design
+Emergence of a General-Purpose Tech
+
+                          Variety                    Generality
+                      (absence of a stable           (stable design
+                            design)                 across domains)
+
+   Experimentation          High                          Low
+        phase
+   Domination phase          Low                         High
+
+
+                                             Karakaya and Engwall (2025)
+The case of artificial
+intelligence (AI)
+
+• AI as functions of machines, robots, software,
+  etc. that mimic cognitive roles associated with
+  the human mind, typically decision-making,
+  self-learning and problem solving (Russell and
+  Norvig, 1995)
+• More-narrowly defined areas of AI: machine
+  learning (Jordan and Mitchell, 2015), neural
+  networks (Gurney, 1997), and large language
+  models (Shanahan, 2024) etc.
+• Does AI demonstrate the characteristics of a
+  general-purpose technology?
+What is next?
+• Lecture, tomorrow
+• Literature on socio-technical transitions
+    • Bergek, A., Jacobsson, S., Carlsson, B., Lindmark, S. and Rickne, A., 2008. Analyzing the
+      functional dynamics of technological innovation systems: A scheme of analysis. Research
+      policy, 37(3), pp.407-429. https://doi.org/10.1016/j.respol.2007.12.003
+    • Markard, J., Raven, R. and Truffer, B., 2012. Sustainability transitions: An emerging field of
+      research and its prospects. Research policy, 41(6), pp.955-967.
+      https://doi.org/10.1016/j.respol.2012.02.013
+    • Karakaya, E., Nuur, C., & Assbring, L. (2018). Potential transitions in the iron and steel
+      industry in Sweden: towards a hydrogen-based future?. Journal of cleaner production, 195,
+      651-663. https://doi.org/10.1016/j.jclepro.2018.05.142
+  Some
+questions I
+   have
+ received
+   Any
+ questions
+    or       emrahka@kth.se
+
+
+comments?
+References
+Bekar, Clifford, Carlaw, Kenneth, & Lipsey, Richard (2018). General purpose technologies in theory, application and controver sy: a review. Journal of Evolutionary Economics, 28(5), 1005–1033.
+
+Bergek, Anna, Jacobsson, Staffan, Carlsson, Bo, Lindmark, Sven, & Rickne, Annika (2008). Analyzing the functional dynamics of techn ological innovation systems: A scheme of analysis. Research Policy, 37(3), 407 –429.
+
+Blomkvist, Pär, Johansson, Petter, & Laestadius, Staffan (2016). This is Industrial Dynamics. In Pär Blomkvist & Petter Johansson (Eds.), Dynamic Mind. Perspectives on Indu strial Dynamics in Honour of Staffan Laestadius.
+Division of Sustainability and Industrial Dynamics, Department of Industrial Economics and Management, KTH. https://urn.kb.se/resolve?urn=urn:nbn:se:mdh:diva-41035
+
+Bower, JL, & Christensen, CM (1995). Disruptive technologies: catching the wave. Harward Business Review, 43–53.
+
+Bresnahan, Timothy F., & Trajtenberg, M. (1995). General purpose technologies “Engines of growth”? Journal of Econometrics, 65(1), 83–108.
+
+Cantner, Uwe, & Vannuccini, Simone (2017). A New View of General Purpose Technologies. Empirische Makroökonomik Und Mehr, 71–96.
+
+Carlsson, Bo (2004). The Digital Economy: What is new and what is not? Structural Change and Economic Dynamics, 15(3), 245 –264.
+
+Carlsson, Bo (2016). Industrial Dynamics: A Review of the Literature 1990–2009. Industry and Innovation, 23(1), 1–61.
+
+Dahmén, Erik (1989). ‘Development blocks’ in industrial economics. In Bo Carlsson (Ed.), Industrial Dynamics Technological, organizational, and structural changes in Industries and Firms (pp. 109–121).
+BOSTON/DORDRECHT/LONDON: Kluwer Academic Publishers.
+
+Geels, Frank W. (2002). Technological transitions as evolutionary reconfiguration processes: a multi-level perspective and a case-study. Research Policy, 31(8–9), 1257–1274.
+
+Hekkert, Marko, Suurs, R, Negro, S, Kuhlmann, S, & Smits, R (2007). Functions of innovation systems: A new approach for analysing technological change. Technological Forecasting and Social Change, 74(4), 413–432.
+
+Jovanovic, Boyan, & Rousseau, Peter L. (2005). Chapter 18 General Purpose Technologies. In Handbook of Economic Growth (Vol. 1, Issue SUPPL. PART B). Elsevier Masson SAS.
+
+Karakaya, Emrah, & Engwall, Mats (2025). Variety and Generality of Artificial Intelligence: Revisiting Managerial Case Studies. Academy of Management Annual Meeting Proceedings, 2025(1).
+
+Miles, Raymond E, Snow, Charles C, Meyer, Alan D, & Coleman, Henry J (1978). Organizational strategy, structure, and process. Academy of Management Review, 3(3), 546–562.
+
+Rogers, Everett M (2003). Diffusion of innovations (5th ed.). New York: The Free Press.
+
+Utterback, James M. (1996). Dominant Design and the Survival of Firms - How companies can seize oppurtunities in the face of technological change. In James M. Utterback (Ed.), Mastering the Dynamics of Innovation (Vol.
+29, Issue 6, pp. 23–56). Boston, Massachusetts: Harvard Business School Press.
+
+Venkatesh, Viswanath, Morris, MG, Davis, GB, & Davis, FD (2003). User acceptance of information technology: Toward a unified view. MIS Quarterly, 27(3), 425–478. http://www.jstor.org/stable/10.2307/30036540
+
+Zott, C., Amit, R., & Massa, L. (2011). The Business Model: Recent Developments and Future Research. Journal of Management, 3 7(4), 1019–1042.
+
